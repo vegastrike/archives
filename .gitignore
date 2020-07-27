@@ -1,0 +1,5 @@
+config.json
+venv/
+gitter.sqlite
+tools/
+archive-gitter

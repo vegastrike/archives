@@ -1,0 +1,2261 @@
+[
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "Hey there... ",
+  "id": "5ee880207c64f31f1163751e",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-06-16T08:17:36.376Z",
+  "text": "Hey there... ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "I suppose the first step in packaging is deciding where all the files go.",
+  "id": "5ee8804c49260560aa635ec6",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-06-16T08:18:20.328Z",
+  "text": "I suppose the first step in packaging is deciding where all the files go.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "I have had a look at the install script, as &quot;make install&quot; complained of not having a target",
+  "id": "5ee8809f49260560aa6360b8",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-06-16T08:19:43.363Z",
+  "text": "I have had a look at the install script, as \"make install\" complained of not having a target",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nabaco",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=60",
+   "displayName": "Nachum Barcohen",
+   "gv": "4",
+   "id": "5cf91f0bd73408ce4fc25bc2",
+   "url": "/nabaco",
+   "username": "nabaco",
+   "v": 24
+  },
+  "html": "I would go with finding old packages of vegastrike, and looking where they install everything",
+  "id": "5ee88c137c64f31f11639140",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-06-16T09:08:35.201Z",
+  "text": "I would go with finding old packages of vegastrike, and looking where they install everything",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nabaco",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=60",
+   "displayName": "Nachum Barcohen",
+   "gv": "4",
+   "id": "5cf91f0bd73408ce4fc25bc2",
+   "url": "/nabaco",
+   "username": "nabaco",
+   "v": 24
+  },
+  "html": "<a href=\"https://repology.org/project/vegastrike/packages\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link \">https://repology.org/project/vegastrike/packages</a>",
+  "id": "5ee88c4e5dcbb760b6f19cd7",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-06-16T09:09:34.208Z",
+  "text": "https://repology.org/project/vegastrike/packages",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://repology.org/project/vegastrike/packages"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "Thanks... I&#39;m updating my package a little bit to provide a more sensible version number. I&#39;ll use the git revision for master now. ",
+  "id": "5ee89e2c30401c1f245d0462",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-06-16T10:25:48.836Z",
+  "text": "Thanks... I'm updating my package a little bit to provide a more sensible version number. I'll use the git revision for master now. ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "Is there any way of getting a list of where the files install without downloading the whole package?",
+  "id": "5ee89fa324a3382d5d6d640e",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-06-16T10:32:03.303Z",
+  "text": "Is there any way of getting a list of where the files install without downloading the whole package?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nabaco",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=60",
+   "displayName": "Nachum Barcohen",
+   "gv": "4",
+   "id": "5cf91f0bd73408ce4fc25bc2",
+   "url": "/nabaco",
+   "username": "nabaco",
+   "v": 24
+  },
+  "html": "If you can find old ubuntu packages, usually you can see their contents online",
+  "id": "5ee8a2537a7f8d2d633ab7e0",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-06-16T10:43:31.541Z",
+  "text": "If you can find old ubuntu packages, usually you can see their contents online",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "Don&#39;t you have a current .deb of vegastrike. Surely that must contain a file list?",
+  "id": "5ee8a469ef5c1c28f027654a",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-06-16T10:52:25.974Z",
+  "text": "Don't you have a current .deb of vegastrike. Surely that must contain a file list?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "The more I stare at these files, the better I am understanding where they should go. This would have been so much easier with an install target for make. Maybe I should investigate how that works and feed it back to you guys. ",
+  "id": "5ee8aa6f24a3382d5d6d7ea3",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-06-16T11:18:07.420Z",
+  "text": "The more I stare at these files, the better I am understanding where they should go. This would have been so much easier with an install target for make. Maybe I should investigate how that works and feed it back to you guys. ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Loki1950",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=60",
+   "displayName": "Loki1950",
+   "gv": "4",
+   "id": "5e90e822d73408ce4fe00596",
+   "url": "/Loki1950",
+   "username": "Loki1950",
+   "v": 235
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"evertvorster\" class=\"mention\">@evertvorster</span>  you can go for three packages executable ,data and music as for where everything goes a look at <a href=\"https://wiki.vega-strike.org/HowTo:Compile_from_SVN_on_Linux\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link \">https://wiki.vega-strike.org/HowTo:Compile_from_SVN_on_Linux</a> there may be some old .deb&#39;s at GetDeb for reference do not know their policy on archiving ",
+  "id": "5ee8de49ef5c1c28f0280208",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "evertvorster",
+    "userId": "5ee87e79d73408ce4fe701e8",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-16T14:59:21.196Z",
+  "text": "@evertvorster  you can go for three packages executable ,data and music as for where everything goes a look at https://wiki.vega-strike.org/HowTo:Compile_from_SVN_on_Linux there may be some old .deb's at GetDeb for reference do not know their policy on archiving ",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://wiki.vega-strike.org/HowTo:Compile_from_SVN_on_Linux"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "Thanks, Loki. I have been studying the source as it is unpacked from the git, and the install instructions for the SVN versions.",
+  "id": "5ee917b65dcbb760b6f31640",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-16T19:04:22.414Z",
+  "text": "Thanks, Loki. I have been studying the source as it is unpacked from the git, and the install instructions for the SVN versions.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "As far as I can tell, this software has never had a proper install target defined for make. Weirdly, it seems to me that the software was designed to be run from the same directory it was compiled in. If it is easier to build and install the software from sources, then the package maintainers of the various distros will make and maintain the packages for you. ",
+  "id": "5ee91d4829d8bc28f9fe12e1",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-16T19:28:08.102Z",
+  "text": "As far as I can tell, this software has never had a proper install target defined for make. Weirdly, it seems to me that the software was designed to be run from the same directory it was compiled in. If it is easier to build and install the software from sources, then the package maintainers of the various distros will make and maintain the packages for you. ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "I guess what I am saying is that there does not seem to be a guideline as to where the software would like it&#39;s files. If there is, I would really appreciate being pointed at it, as otherwise I would have to reverse engineer it. I&#39;ll of course discuss it with you as I am going along, as I don&#39;t want to step on any toes.",
+  "id": "5ee91e587a7f8d2d633c1aee",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-16T19:32:40.851Z",
+  "text": "I guess what I am saying is that there does not seem to be a guideline as to where the software would like it's files. If there is, I would really appreciate being pointed at it, as otherwise I would have to reverse engineer it. I'll of course discuss it with you as I am going along, as I don't want to step on any toes.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Loki1950",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=60",
+   "displayName": "Loki1950",
+   "gv": "4",
+   "id": "5e90e822d73408ce4fe00596",
+   "url": "/Loki1950",
+   "username": "Loki1950",
+   "v": 235
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"evertvorster\" class=\"mention\">@evertvorster</span> then we had better define a install target as even I have been running it in userland for ever last time I actually installed it was 0.43 from a Linux Format cover DVD just before I joined the the forums made admin of those forums a few years later",
+  "id": "5ee91ede7b6da9126a9bdd79",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "evertvorster",
+    "userId": "5ee87e79d73408ce4fe701e8",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-16T19:34:54.203Z",
+  "text": "@evertvorster then we had better define a install target as even I have been running it in userland for ever last time I actually installed it was 0.43 from a Linux Format cover DVD just before I joined the the forums made admin of those forums a few years later",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 3
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"evertvorster\" class=\"mention\">@evertvorster</span> yeah, I&#39;ve noticed a bit of that too. I&#39;d like to introduce some new settings for data locations so that it can be started from anywhere, perhaps even have a game selector built in for multiple data package sets...It&#39;s still in my mind right now; but something I&#39;m thinking of in order to support multiple game asset sets",
+  "id": "5ee91f6c013105125a3c04ae",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "evertvorster",
+    "userId": "5ee87e79d73408ce4fe701e8",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-16T19:37:16.068Z",
+  "text": "@evertvorster yeah, I've noticed a bit of that too. I'd like to introduce some new settings for data locations so that it can be started from anywhere, perhaps even have a game selector built in for multiple data package sets...It's still in my mind right now; but something I'm thinking of in order to support multiple game asset sets",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 3
+  },
+  "html": "also it&#39;s not so much that it needs to be run from the build directory as it needs to be run from the <em>asset data</em> directory",
+  "id": "5ee91f87ef5c1c28f028bf33",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-16T19:37:43.172Z",
+  "text": "also it's not so much that it needs to be run from the build directory as it needs to be run from the *asset data* directory",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 3
+  },
+  "html": "the full checkout (with git submodules) produces a repo view that provides both the engine and an asset data directory that works",
+  "id": "5ee91fa5ee693d6eb3caf160",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-16T19:38:13.542Z",
+  "text": "the full checkout (with git submodules) produces a repo view that provides both the engine and an asset data directory that works",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Loki1950",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=60",
+   "displayName": "Loki1950",
+   "gv": "4",
+   "id": "5e90e822d73408ce4fe00596",
+   "url": "/Loki1950",
+   "username": "Loki1950",
+   "v": 235
+  },
+  "html": "Supporting multi data sets never became an issue as the various MODs where fairly defensive of their  exclusivity ",
+  "id": "5ee920e129d8bc28f9fe1ccd",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-16T19:43:29.394Z",
+  "text": "Supporting multi data sets never became an issue as the various MODs where fairly defensive of their  exclusivity ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 3
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"Loki1950\" class=\"mention\">@Loki1950</span>  I know we&#39;ll have 2 - between UtCS and PWCU; don&#39; know if others will crop up...hoping they will.",
+  "id": "5ee92315ee693d6eb3cafbf4",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "Loki1950",
+    "userId": "5e90e822d73408ce4fe00596",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-16T19:52:53.626Z",
+  "text": "@Loki1950  I know we'll have 2 - between UtCS and PWCU; don' know if others will crop up...hoping they will.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 3
+  },
+  "html": "I&#39;d also like to create a minimal set for testing purposes.",
+  "id": "5ee9232130401c1f245e803d",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-16T19:53:05.765Z",
+  "text": "I'd also like to create a minimal set for testing purposes.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "The way I have it set up, the binaries from the engine ends up in /usr/bin,  there is a measure of success there. Both vegastrike and vegasettings support a switch which tells them where the data directory is. The files from the Production-Assets ends up in /usr/share/vegastrike on my system, that is where I would expect game data to be. There are a few config files and icons and so that really don&#39;t belong in the game data directory..... Thing is, with a proper install target for make, one can set the install directory, and this is also a variable that can be passed to the binaries at build time, so they would know where to look for the data when it runs. The packagers have a neat trick where they fool the install target to install into a chroot, and so all the files of the game is captured, zipped and ready to install on similar systems. Easy-peasy. I know this part of developing is not that glamarous... so I&#39;ll have a crack at where each of the files should be, and feed it back to you guys for comments. From that, we can define an install target for make that makes everybody happy.",
+  "id": "5ee92dc4a85de3039419bccc",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-16T20:38:28.822Z",
+  "text": "The way I have it set up, the binaries from the engine ends up in /usr/bin,  there is a measure of success there. Both vegastrike and vegasettings support a switch which tells them where the data directory is. The files from the Production-Assets ends up in /usr/share/vegastrike on my system, that is where I would expect game data to be. There are a few config files and icons and so that really don't belong in the game data directory..... Thing is, with a proper install target for make, one can set the install directory, and this is also a variable that can be passed to the binaries at build time, so they would know where to look for the data when it runs. The packagers have a neat trick where they fool the install target to install into a chroot, and so all the files of the game is captured, zipped and ready to install on similar systems. Easy-peasy. I know this part of developing is not that glamarous... so I'll have a crack at where each of the files should be, and feed it back to you guys for comments. From that, we can define an install target for make that makes everybody happy.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nabaco",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=60",
+   "displayName": "Nachum Barcohen",
+   "gv": "4",
+   "id": "5cf91f0bd73408ce4fc25bc2",
+   "url": "/nabaco",
+   "username": "nabaco",
+   "v": 24
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"evertvorster\" class=\"mention\">@evertvorster</span> there are some defaults hard coded in the code. Can be found in vegasetyings source code",
+  "id": "5ee931945dcbb760b6f36119",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "evertvorster",
+    "userId": "5ee87e79d73408ce4fe701e8",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-16T20:54:44.977Z",
+  "text": "@evertvorster there are some defaults hard coded in the code. Can be found in vegasetyings source code",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 3
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"evertvorster\" class=\"mention\">@evertvorster</span> thanks; We do use <code>cmake</code> as the base, I&#39;ll try to take a look to see if CMake has some install target stuff we can use; though that might be more a function of <code>cpack</code> (CMake&#39;s Package builder) than <code>cmake</code>.",
+  "id": "5ee93a8e29d8bc28f9fe5f29",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "evertvorster",
+    "userId": "5ee87e79d73408ce4fe701e8",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-16T21:33:02.835Z",
+  "text": "@evertvorster thanks; We do use `cmake` as the base, I'll try to take a look to see if CMake has some install target stuff we can use; though that might be more a function of `cpack` (CMake's Package builder) than `cmake`.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Loki1950",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=60",
+   "displayName": "Loki1950",
+   "gv": "4",
+   "id": "5e90e822d73408ce4fe00596",
+   "url": "/Loki1950",
+   "username": "Loki1950",
+   "v": 235
+  },
+  "html": "The icons and other files are where they are for easier Widows installs as well as OSX we are not just a Linux game after all so some concessions are in order ",
+  "id": "5ee93f335782a31278032368",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-16T21:52:51.579Z",
+  "text": "The icons and other files are where they are for easier Widows installs as well as OSX we are not just a Linux game after all so some concessions are in order ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "Here is a little mystery to me. The vsinstall.sh that lives in Assets-Production tries to install the binaries that are made in Vega-Strike-Engine-Source, and not much else. Should a better place for it not be with the engine? (personally, I am shit scared of scripts that mess with the file system, and IMHO a script like this should not exist at all, this is the job of the install target of make)",
+  "id": "5ee9a91424a3382d5d6ff0ba",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T05:24:36.455Z",
+  "text": "Here is a little mystery to me. The vsinstall.sh that lives in Assets-Production tries to install the binaries that are made in Vega-Strike-Engine-Source, and not much else. Should a better place for it not be with the engine? (personally, I am shit scared of scripts that mess with the file system, and IMHO a script like this should not exist at all, this is the job of the install target of make)",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nabaco",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=60",
+   "displayName": "Nachum Barcohen",
+   "gv": "4",
+   "id": "5cf91f0bd73408ce4fc25bc2",
+   "url": "/nabaco",
+   "username": "nabaco",
+   "v": 24
+  },
+  "html": "agreed about that",
+  "id": "5ee9b08ba85de303941acfeb",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T05:56:27.466Z",
+  "text": "agreed about that",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nabaco",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=60",
+   "displayName": "Nachum Barcohen",
+   "gv": "4",
+   "id": "5cf91f0bd73408ce4fc25bc2",
+   "url": "/nabaco",
+   "username": "nabaco",
+   "v": 24
+  },
+  "html": "the list of possible locations can be found here: <code>engine\\setup\\src\\c\\setup.cpp</code>",
+  "id": "5ee9ba49013105125a3d5a41",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T06:38:01.656Z",
+  "text": "the list of possible locations can be found here: `engine\\setup\\src\\c\\setup.cpp`",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nabaco",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=60",
+   "displayName": "Nachum Barcohen",
+   "gv": "4",
+   "id": "5cf91f0bd73408ce4fc25bc2",
+   "url": "/nabaco",
+   "username": "nabaco",
+   "v": 24
+  },
+  "html": "around line 143",
+  "id": "5ee9ba51035dfa1261264055",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T06:38:09.972Z",
+  "text": "around line 143",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nabaco",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=60",
+   "displayName": "Nachum Barcohen",
+   "gv": "4",
+   "id": "5cf91f0bd73408ce4fc25bc2",
+   "url": "/nabaco",
+   "username": "nabaco",
+   "v": 24
+  },
+  "html": "but the best place to look at is here: <code>engine\\datascripts\\vegastrike-data.spec</code>",
+  "id": "5ee9ba761e099b0388cf39dd",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T06:38:46.400Z",
+  "text": "but the best place to look at is here: `engine\\datascripts\\vegastrike-data.spec`",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nabaco",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=60",
+   "displayName": "Nachum Barcohen",
+   "gv": "4",
+   "id": "5cf91f0bd73408ce4fc25bc2",
+   "url": "/nabaco",
+   "username": "nabaco",
+   "v": 24
+  },
+  "html": "that&#39;s how the game should be installed in RPM based distros",
+  "id": "5ee9ba80ef5c1c28f02a1e14",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T06:38:56.071Z",
+  "text": "that's how the game should be installed in RPM based distros",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "Ah, thanks so much! I have also been busy. Seems that for the binaries at least, adding an install target is trivial. Have a read at <a href=\"https://mirkokiefer.com/cmake-by-example-f95eb47d45b1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link \">https://mirkokiefer.com/cmake-by-example-f95eb47d45b1</a> ",
+  "id": "5ee9ca96384f9b064c10b457",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T07:47:34.094Z",
+  "text": "Ah, thanks so much! I have also been busy. Seems that for the binaries at least, adding an install target is trivial. Have a read at https://mirkokiefer.com/cmake-by-example-f95eb47d45b1 ",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://mirkokiefer.com/cmake-by-example-f95eb47d45b1"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "I have added a line to each of the CMakelists.txt of vegastrike, vegasettings and mesh_tool, and they now install in a nicely track-able way if you were to run &quot;make install&quot; after running make for the engine. This is of course on my local copy. For the data files no CMakelists.txt exists, and of course it&#39;s not compiled, it&#39;s just data that needs to go live somewhere in a filesystem. Whether that is /opt/vegastrike, or /usr/share/vegastrike or /usr/local/share/vegastrike needs to be settable to make everyone happy. ",
+  "id": "5ee9cbe169879026ce0ce736",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T07:53:05.825Z",
+  "text": "I have added a line to each of the CMakelists.txt of vegastrike, vegasettings and mesh_tool, and they now install in a nicely track-able way if you were to run \"make install\" after running make for the engine. This is of course on my local copy. For the data files no CMakelists.txt exists, and of course it's not compiled, it's just data that needs to go live somewhere in a filesystem. Whether that is /opt/vegastrike, or /usr/share/vegastrike or /usr/local/share/vegastrike needs to be settable to make everyone happy. ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nabaco",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=60",
+   "displayName": "Nachum Barcohen",
+   "gv": "4",
+   "id": "5cf91f0bd73408ce4fc25bc2",
+   "url": "/nabaco",
+   "username": "nabaco",
+   "v": 24
+  },
+  "html": "it can be done through CMAKE too",
+  "id": "5ee9ccd569879026ce0ce92d",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T07:57:09.243Z",
+  "text": "it can be done through CMAKE too",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "Nachum, would this mean that there needs to be a CMakelists.txt file in the data directory?",
+  "id": "5ee9d4486ec4a26deaad4908",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T08:28:56.876Z",
+  "text": "Nachum, would this mean that there needs to be a CMakelists.txt file in the data directory?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nabaco",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=60",
+   "displayName": "Nachum Barcohen",
+   "gv": "4",
+   "id": "5cf91f0bd73408ce4fc25bc2",
+   "url": "/nabaco",
+   "username": "nabaco",
+   "v": 24
+  },
+  "html": "no, you could add instructions in the main <code>CMakeLists.txt</code> to copy the <code>data</code> folder to the right place. the same way it checks if the data folder exists at all",
+  "id": "5ee9d47b90cd6426c810f2d5",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T08:29:47.289Z",
+  "text": "no, you could add instructions in the main `CMakeLists.txt` to copy the `data` folder to the right place. the same way it checks if the data folder exists at all",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "Nachum, are you assuming that both the engine and data source repositories are unpacked at the same time? If we are to separate then engine and source in order to support stuff like the Privateer remake, this may be a bad assumption to make.",
+  "id": "5ee9d521d7c1da0adc93da78",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T08:32:33.979Z",
+  "text": "Nachum, are you assuming that both the engine and data source repositories are unpacked at the same time? If we are to separate then engine and source in order to support stuff like the Privateer remake, this may be a bad assumption to make.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nabaco",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=60",
+   "displayName": "Nachum Barcohen",
+   "gv": "4",
+   "id": "5cf91f0bd73408ce4fc25bc2",
+   "url": "/nabaco",
+   "username": "nabaco",
+   "v": 24
+  },
+  "html": "agreed, haven&#39;t thought about that.",
+  "id": "5ee9ef203ca1e1625e8550e4",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T10:23:28.362Z",
+  "text": "agreed, haven't thought about that.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nabaco",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=60",
+   "displayName": "Nachum Barcohen",
+   "gv": "4",
+   "id": "5cf91f0bd73408ce4fc25bc2",
+   "url": "/nabaco",
+   "username": "nabaco",
+   "v": 24
+  },
+  "html": "maybe we could add a simple makefile in the data/ dir that handles those things.",
+  "id": "5ee9ef2d3316c66e00d40eee",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T10:23:41.468Z",
+  "text": "maybe we could add a simple makefile in the data/ dir that handles those things.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "Hey, if it is possible to add a makefile like that, it would be great. I&#39;m fairly new at this, but won&#39;t a makefile complain if there is nothing to make?",
+  "id": "5ee9ef71b9b4300995857e0e",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T10:24:49.280Z",
+  "text": "Hey, if it is possible to add a makefile like that, it would be great. I'm fairly new at this, but won't a makefile complain if there is nothing to make?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nabaco",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=60",
+   "displayName": "Nachum Barcohen",
+   "gv": "4",
+   "id": "5cf91f0bd73408ce4fc25bc2",
+   "url": "/nabaco",
+   "username": "nabaco",
+   "v": 24
+  },
+  "html": "makefile doesn&#39;t necessary needs to compile something :)",
+  "id": "5ee9effa5833b0624bd50367",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T10:27:06.416Z",
+  "text": "makefile doesn't necessary needs to compile something :)",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "And now, for something completely different. Vegastrike is doing something <em>very</em> weird... I have captured a little video to show it... but what is the proper place to file bugs?",
+  "id": "5eea09a65833b0624bd54cad",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T12:16:38.563Z",
+  "text": "And now, for something completely different. Vegastrike is doing something _very_ weird... I have captured a little video to show it... but what is the proper place to file bugs?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nabaco",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=60",
+   "displayName": "Nachum Barcohen",
+   "gv": "4",
+   "id": "5cf91f0bd73408ce4fc25bc2",
+   "url": "/nabaco",
+   "username": "nabaco",
+   "v": 24
+  },
+  "html": "<p><a href=\"https://github.com/vegastrike/Vega-Strike-Engine-Source/issues\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link \">https://github.com/vegastrike/Vega-Strike-Engine-Source/issues</a></p><p>but first, what are you seeing?</p>",
+  "id": "5eea09e3a28e7a6fb282296d",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T12:17:39.977Z",
+  "text": "https://github.com/vegastrike/Vega-Strike-Engine-Source/issues\n\nbut first, what are you seeing?",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://github.com/vegastrike/Vega-Strike-Engine-Source/issues"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nabaco",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=60",
+   "displayName": "Nachum Barcohen",
+   "gv": "4",
+   "id": "5cf91f0bd73408ce4fc25bc2",
+   "url": "/nabaco",
+   "username": "nabaco",
+   "v": 24
+  },
+  "html": "might be an existing issue",
+  "id": "5eea09e77e7f055cb4c95226",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T12:17:43.152Z",
+  "text": "might be an existing issue",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "Might be, thanks for the link. Words fail me. I&#39;ll upload the video to youtube and paste a link",
+  "id": "5eea0a1b3316c66e00d45a59",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T12:18:35.123Z",
+  "text": "Might be, thanks for the link. Words fail me. I'll upload the video to youtube and paste a link",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nabaco",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=60",
+   "displayName": "Nachum Barcohen",
+   "gv": "4",
+   "id": "5cf91f0bd73408ce4fc25bc2",
+   "url": "/nabaco",
+   "username": "nabaco",
+   "v": 24
+  },
+  "html": "if you see odd erratic/jumping behaviour during flight, it&#39;s a known issue:<br><a target=\"_blank\" data-link-type=\"issue\" data-issue=\"91\" href=\"https://github.com/vegastrike/Vega-Strike-Engine-Source/issues/91\" data-provider=\"github\" data-issue-repo=\"vegastrike/Vega-Strike-Engine-Source\" class=\"issue\">vegastrike/Vega-Strike-Engine-Source#91</a>",
+  "id": "5eea0a57d7c1da0adc946ead",
+  "issues": [
+   {
+    "number": "91",
+    "repo": "vegastrike/Vega-Strike-Engine-Source"
+   }
+  ],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T12:19:35.225Z",
+  "text": "if you see odd erratic/jumping behaviour during flight, it's a known issue:\nhttps://github.com/vegastrike/Vega-Strike-Engine-Source/issues/91",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "<a href=\"https://youtu.be/ZUqAY-XcZyQ\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link \">https://youtu.be/ZUqAY-XcZyQ</a>",
+  "id": "5eea0ac33ca1e1625e859eda",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T12:21:23.418Z",
+  "text": "https://youtu.be/ZUqAY-XcZyQ",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://youtu.be/ZUqAY-XcZyQ"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "Jumping... I guess you can call it that...",
+  "id": "5eea0ad0d7c1da0adc946f91",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T12:21:36.167Z",
+  "text": "Jumping... I guess you can call it that...",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "Anyways, I added my video to that bug list. As far as I can tell, a fix for it should have made it into master, which I have built from today...",
+  "id": "5eea0dc7d7c1da0adc9476b2",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T12:34:15.299Z",
+  "text": "Anyways, I added my video to that bug list. As far as I can tell, a fix for it should have made it into master, which I have built from today...",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 3
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"evertvorster\" class=\"mention\">@evertvorster</span> <span data-link-type=\"mention\" data-screen-name=\"nabaco\" class=\"mention\">@nabaco</span> I would say that yes the Asset repos should have a CMakeList.txt; they should actually be responsible for packaging themselves with a dependency on the Engine, not the other way around.",
+  "id": "5eea2eb5a28e7a6fb2829129",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "evertvorster",
+    "userId": "5ee87e79d73408ce4fe701e8",
+    "userIds": []
+   },
+   {
+    "screenName": "nabaco",
+    "userId": "5cf91f0bd73408ce4fc25bc2",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T14:54:45.783Z",
+  "text": "@evertvorster @nabaco I would say that yes the Asset repos should have a CMakeList.txt; they should actually be responsible for packaging themselves with a dependency on the Engine, not the other way around.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 3
+  },
+  "html": "dependency -&gt; any generated package should name the Engine&#39;s package as it&#39;s dependency. We should be able to build them completely separate from each other.",
+  "id": "5eea2eddb9b4300995862dac",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T14:55:25.068Z",
+  "text": "dependency -> any generated package should name the Engine's package as it's dependency. We should be able to build them completely separate from each other.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 3
+  },
+  "html": "I&#39;m not expecting to make those kinds of changes for the 0.6.x release we&#39;re getting ready for, as I think it&#39;ll be too big a change for the goals of 0.6.x. Whether that falls in 0.7.x or 0.9.x is certainly a good question (0.8.x has a very specific goal of dropping Py2 and moving to Py3 so trying to avoid other stuff on that one)",
+  "id": "5eea2f4a7ad97a062caadc4e",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T14:57:14.296Z",
+  "text": "I'm not expecting to make those kinds of changes for the 0.6.x release we're getting ready for, as I think it'll be too big a change for the goals of 0.6.x. Whether that falls in 0.7.x or 0.9.x is certainly a good question (0.8.x has a very specific goal of dropping Py2 and moving to Py3 so trying to avoid other stuff on that one)",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 3
+  },
+  "html": "0.6.x should be minimal changes compared to the last release of 0.5.x - enough to get Vega Strike built, released and packaged perhaps with some other bug fixes along the way too, but overall minimal.",
+  "id": "5eea2f9ba28e7a6fb282950f",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T14:58:35.214Z",
+  "text": "0.6.x should be minimal changes compared to the last release of 0.5.x - enough to get Vega Strike built, released and packaged perhaps with some other bug fixes along the way too, but overall minimal.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"BenjamenMeyer\" class=\"mention\">@BenjamenMeyer</span> The way I have it set up at the moment is that the engine requires the data, ie: completely opposite your suggestion. It is not carved in stone, and I can switch it around without the world coming apart. The more I think about it, your approach makes more sense.  ",
+  "id": "5eea39df3316c66e00d4e6b7",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "BenjamenMeyer",
+    "userId": "5e86b71dd73408ce4fdf0da2",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T15:42:23.463Z",
+  "text": "@BenjamenMeyer The way I have it set up at the moment is that the engine requires the data, ie: completely opposite your suggestion. It is not carved in stone, and I can switch it around without the world coming apart. The more I think about it, your approach makes more sense.  ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "I am now in the process of making a new &quot;vegastrike-git&quot; package, which will provide the data, and require vegastrike-engine to be installed. In the future, one could conceivably have a privateer-remake package that also requires the vegastrike-engine package. This way both packages can be installed concurrently, and use the same engine",
+  "id": "5eea40967c62240ad2ba135a",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T16:11:02.460Z",
+  "text": "I am now in the process of making a new \"vegastrike-git\" package, which will provide the data, and require vegastrike-engine to be installed. In the future, one could conceivably have a privateer-remake package that also requires the vegastrike-engine package. This way both packages can be installed concurrently, and use the same engine",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 3
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"evertvorster\" class=\"mention\">@evertvorster</span> cool - and yeah that&#39;s the goal. Would be neat to see others use the engine too; and one of the reasons why I want to work on the config settings to be more flexible",
+  "id": "5eea523a3ca1e1625e866723",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "evertvorster",
+    "userId": "5ee87e79d73408ce4fe701e8",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T17:26:18.696Z",
+  "text": "@evertvorster cool - and yeah that's the goal. Would be neat to see others use the engine too; and one of the reasons why I want to work on the config settings to be more flexible",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 3
+  },
+  "html": "Also you&#39;ve give me a number of points to think about and issues to file from the conversations - a very good things :)",
+  "id": "5eea527a90cd6426c8126908",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T17:27:22.972Z",
+  "text": "Also you've give me a number of points to think about and issues to file from the conversations - a very good things :)",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"BenjamenMeyer\" class=\"mention\">@BenjamenMeyer</span> I have completed the old switcheroo on the packages. Now in AUR, vegastrike-git provides the data files, and vegastrike-engine-git provides the engine. I went against having a vegastrike-data providing the data, as <em>something</em> needs to provide &quot;vegastrike&quot; to the system. In this way, installing &quot;vegastrike&quot; also installs it&#39;s engine. It may be conceivable that if the engine wants to be multiple-use, we can call it something different, then have a wrapper in the data package (installed to bin) that call it with the proper location of the data it&#39;s supposed to be operating on. ",
+  "id": "5eea561a6ec4a26deaaec7b6",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "BenjamenMeyer",
+    "userId": "5e86b71dd73408ce4fdf0da2",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T17:42:50.065Z",
+  "text": "@BenjamenMeyer I have completed the old switcheroo on the packages. Now in AUR, vegastrike-git provides the data files, and vegastrike-engine-git provides the engine. I went against having a vegastrike-data providing the data, as _something_ needs to provide \"vegastrike\" to the system. In this way, installing \"vegastrike\" also installs it's engine. It may be conceivable that if the engine wants to be multiple-use, we can call it something different, then have a wrapper in the data package (installed to bin) that call it with the proper location of the data it's supposed to be operating on. ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 3
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"evertvorster\" class=\"mention\">@evertvorster</span> technically the game  data assets provides the game <code>Vega Strike: Under the Coldest Sea</code> we&#39;ve been using the abbreviation UtCS for that. Don&#39;t know if  you want to use that in the data package name or not; probably be good to use it in the descriptions at least.",
+  "id": "5eea8ea85833b0624bd6b3f5",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "evertvorster",
+    "userId": "5ee87e79d73408ce4fe701e8",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T21:44:08.641Z",
+  "text": "@evertvorster technically the game  data assets provides the game `Vega Strike: Under the Coldest Sea` we've been using the abbreviation UtCS for that. Don't know if  you want to use that in the data package name or not; probably be good to use it in the descriptions at least.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 3
+  },
+  "html": "Also if you want to have a dev package for the assets it can use the Asset Masters repository which is used to build Asset Production. I don&#39;t yet know the details of their relationship, <span data-link-type=\"mention\" data-screen-name=\"Loki1950\" class=\"mention\">@Loki1950</span> ",
+  "id": "5eea8ed03316c66e00d5d580",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "Loki1950",
+    "userId": "5e90e822d73408ce4fe00596",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T21:44:48.366Z",
+  "text": "Also if you want to have a dev package for the assets it can use the Asset Masters repository which is used to build Asset Production. I don't yet know the details of their relationship, @Loki1950 ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 3
+  },
+  "html": "can help some there, but if devs/artists wanted to contribute to Asset Production for UtCS then that&#39;s where they&#39;d be contributing.",
+  "id": "5eea8ef869879026ce0f0e09",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T21:45:28.236Z",
+  "text": "can help some there, but if devs/artists wanted to contribute to Asset Production for UtCS then that's where they'd be contributing.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 3
+  },
+  "html": "I don&#39;t think PWCU has any kind of multi-repository thing like that for its assets; not sure why VS:UtCS is that way yet.",
+  "id": "5eea8f470c34bc5cccb286c8",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T21:46:47.782Z",
+  "text": "I don't think PWCU has any kind of multi-repository thing like that for its assets; not sure why VS:UtCS is that way yet.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 3
+  },
+  "html": "lots to learn; thanks for working with us on all this",
+  "id": "5eea8f585833b0624bd6b569",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-17T21:47:04.588Z",
+  "text": "lots to learn; thanks for working with us on all this",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2020-06-17T21:52:20.634Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Loki1950",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=60",
+   "displayName": "Loki1950",
+   "gv": "4",
+   "id": "5e90e822d73408ce4fe00596",
+   "url": "/Loki1950",
+   "username": "Loki1950",
+   "v": 235
+  },
+  "html": "The primary tools are mesher,nvtt and <span data-link-type=\"mention\" data-screen-name=\"pyramid3d\" class=\"mention\">@pyramid3d</span>&#39;s unitconverter and the multi-repo idea was done in the transfer from svn by <span data-link-type=\"mention\" data-screen-name=\"zonkmachine\" class=\"mention\">@zonkmachine</span> so do not know his reasons",
+  "id": "5eea8f7b3ca1e1625e870d11",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "pyramid3d",
+    "userId": "5de4fd4cd73408ce4fd2b0a0",
+    "userIds": []
+   },
+   {
+    "screenName": "zonkmachine",
+    "userId": "57485010c43b8c6019754a42",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2020-06-17T21:47:39.524Z",
+  "text": "The primary tools are mesher,nvtt and @pyramid3d's unitconverter and the multi-repo idea was done in the transfer from svn by @zonkmachine so do not know his reasons",
+  "unread": false,
+  "urls": [],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"BenjamenMeyer\" class=\"mention\">@BenjamenMeyer</span>, Changine a package name is possible, but it&#39;s not exactly trivial. Of course, it is easier when nothing else is relying on the package, so it&#39;s best to do it now.  Honestly... what are the chances that something else that uses this engine will be called vegastrike?",
+  "id": "5eeb0214c4bdd83475eea868",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "BenjamenMeyer",
+    "userId": "5e86b71dd73408ce4fdf0da2",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-18T05:56:36.905Z",
+  "text": "@BenjamenMeyer, Changine a package name is possible, but it's not exactly trivial. Of course, it is easier when nothing else is relying on the package, so it's best to do it now.  Honestly... what are the chances that something else that uses this engine will be called vegastrike?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"Loki1950\" class=\"mention\">@Loki1950</span> if there is no development going to happen in Assets-Production, why have it as a git repo at all? The same purpose can be achieved by hosting a tarball pulled from master at a good time. It makes for a smaller (resumable) download, simpler packaging and provides a stable base to build the engine against. At the moment the vegastrike-git package in AUR uses the Assets-Production git repository, as that was what was what was suggested in the install instructions. Changing it over to Assets-Master is easy enough to do, but involves pulling a rather large git repo. ",
+  "id": "5eeb08036c06cd1bf43cb393",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "Loki1950",
+    "userId": "5e90e822d73408ce4fe00596",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-18T06:21:55.877Z",
+  "text": "@Loki1950 if there is no development going to happen in Assets-Production, why have it as a git repo at all? The same purpose can be achieved by hosting a tarball pulled from master at a good time. It makes for a smaller (resumable) download, simpler packaging and provides a stable base to build the engine against. At the moment the vegastrike-git package in AUR uses the Assets-Production git repository, as that was what was what was suggested in the install instructions. Changing it over to Assets-Master is easy enough to do, but involves pulling a rather large git repo. ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "<a href=\"https://files.gitter.im/5ee83744d73408ce4fe6fcee/zhb2/CMakeLists.txt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link \">CMakeLists.txt</a>",
+  "id": "5eeb626fec4a341beed523ac",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-18T12:47:43.487Z",
+  "text": "[CMakeLists.txt](https://files.gitter.im/5ee83744d73408ce4fe6fcee/zhb2/CMakeLists.txt)",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://files.gitter.im/5ee83744d73408ce4fe6fcee/zhb2/CMakeLists.txt"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "I just made a CMakelists.txt that will install all the files to their proper locations on Linux machines for the data files. Next I am going to write a wrapper or two to set the execute directories for vegastrike and vegasettings",
+  "id": "5eeb627db8152d34844cb023",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-18T12:47:57.092Z",
+  "text": "I just made a CMakelists.txt that will install all the files to their proper locations on Linux machines for the data files. Next I am going to write a wrapper or two to set the execute directories for vegastrike and vegasettings",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "Can I ask someone to stick these into the git repo?",
+  "id": "5eeb62937ba3965373b4ed83",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-18T12:48:19.887Z",
+  "text": "Can I ask someone to stick these into the git repo?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 3
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"evertvorster\" class=\"mention\">@evertvorster</span> we can certainly help there if you don&#39;t want to do a PR.",
+  "id": "5eeb74f747fdfd21edcf4438",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "evertvorster",
+    "userId": "5ee87e79d73408ce4fe701e8",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-18T14:06:47.106Z",
+  "text": "@evertvorster we can certainly help there if you don't want to do a PR.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "<a href=\"https://files.gitter.im/5ee83744d73408ce4fe6fcee/Dv29/vs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link \">vs</a>",
+  "id": "5eeb758a54d7862dc494c77c",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-18T14:09:14.206Z",
+  "text": "[vs](https://files.gitter.im/5ee83744d73408ce4fe6fcee/Dv29/vs)",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://files.gitter.im/5ee83744d73408ce4fe6fcee/Dv29/vs"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "<a href=\"https://files.gitter.im/5ee83744d73408ce4fe6fcee/Dv29/vsettings\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link \">vsettings</a>",
+  "id": "5eeb758a54d7862dc494c77d",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-18T14:09:14.212Z",
+  "text": "[vsettings](https://files.gitter.im/5ee83744d73408ce4fe6fcee/Dv29/vsettings)",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://files.gitter.im/5ee83744d73408ce4fe6fcee/Dv29/vsettings"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "<a href=\"https://files.gitter.im/5ee83744d73408ce4fe6fcee/iVIG/CMakeLists.txt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link \">CMakeLists.txt</a>",
+  "id": "5eeb76d5e0e5673398be5e06",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-18T14:14:45.520Z",
+  "text": "[CMakeLists.txt](https://files.gitter.im/5ee83744d73408ce4fe6fcee/iVIG/CMakeLists.txt)",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://files.gitter.im/5ee83744d73408ce4fe6fcee/iVIG/CMakeLists.txt"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"BenjamenMeyer\" class=\"mention\">@BenjamenMeyer</span>, please, if you don&#39;t mind. I promise I won&#39;t shower you with any more files. The CMakeLists.txt, and the two wrapper files &#39;vs&#39; and &#39;vsettings&#39; into Assets-Production. The wrapper files frees one up from running vegastrike and vegasettings in the data directory only. The CMakeLists.txt installs all the common data and the Linux-specific .desktop and icons files to their correct places. The CMakeLists.txt respects the DESTDIR variables, and defaults to the more common /usr/local, as do the wrapper scripts. I was a little bored today, and I don&#39;t know enough about coding to fix that SPEC jumping bug",
+  "id": "5eeb77ab6c06cd1bf43dd983",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "BenjamenMeyer",
+    "userId": "5e86b71dd73408ce4fdf0da2",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-18T14:18:19.651Z",
+  "text": "@BenjamenMeyer, please, if you don't mind. I promise I won't shower you with any more files. The CMakeLists.txt, and the two wrapper files 'vs' and 'vsettings' into Assets-Production. The wrapper files frees one up from running vegastrike and vegasettings in the data directory only. The CMakeLists.txt installs all the common data and the Linux-specific .desktop and icons files to their correct places. The CMakeLists.txt respects the DESTDIR variables, and defaults to the more common /usr/local, as do the wrapper scripts. I was a little bored today, and I don't know enough about coding to fix that SPEC jumping bug",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 3
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"evertvorster\" class=\"mention\">@evertvorster</span> not a problem; thanks!",
+  "id": "5eeb77da54d7862dc494ce7c",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "evertvorster",
+    "userId": "5ee87e79d73408ce4fe701e8",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-18T14:19:06.883Z",
+  "text": "@evertvorster not a problem; thanks!",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "At the moment, the AUR has copies of those files I just provided you, so for Arch it already works as intended, but to make life easier for the other packagers amongst us you can do this at your leisure",
+  "id": "5eeb782ca813c72dcff6ce49",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-18T14:20:28.774Z",
+  "text": "At the moment, the AUR has copies of those files I just provided you, so for Arch it already works as intended, but to make life easier for the other packagers amongst us you can do this at your leisure",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 3
+  },
+  "html": "the <code>vs</code> and <code>vsettings</code> - do those go with the assets too?",
+  "id": "5eeb787bbb149531edb82e64",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-18T14:21:47.844Z",
+  "text": "the `vs` and `vsettings` - do those go with the assets too?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Loki1950",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=60",
+   "displayName": "Loki1950",
+   "gv": "4",
+   "id": "5e90e822d73408ce4fe00596",
+   "url": "/Loki1950",
+   "username": "Loki1950",
+   "v": 235
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"evertvorster\" class=\"mention\">@evertvorster</span> a good Bash script is always handy",
+  "id": "5eeb7889a813c72dcff6cfe0",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "evertvorster",
+    "userId": "5ee87e79d73408ce4fe701e8",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-18T14:22:01.863Z",
+  "text": "@evertvorster a good Bash script is always handy",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/evertvorster",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12045269?v=4&s=60",
+   "displayName": "Evert Vorster",
+   "gv": "4",
+   "id": "5ee87e79d73408ce4fe701e8",
+   "url": "/evertvorster",
+   "username": "evertvorster",
+   "v": 3
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"BenjamenMeyer\" class=\"mention\">@BenjamenMeyer</span> yes, the vs and vsettings go with the assets. The theory here is that they call the engine with the settings to find the data directory. As such, they are system agnostic, and belong with the data. Looking forward, should I package Gemini Gold or some such thing, one could make wrapper scripts for that game to also use the installed vegastrike engine.",
+  "id": "5eeb7b24405be935cdab2a85",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "BenjamenMeyer",
+    "userId": "5e86b71dd73408ce4fdf0da2",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-18T14:33:08.382Z",
+  "text": "@BenjamenMeyer yes, the vs and vsettings go with the assets. The theory here is that they call the engine with the settings to find the data directory. As such, they are system agnostic, and belong with the data. Looking forward, should I package Gemini Gold or some such thing, one could make wrapper scripts for that game to also use the installed vegastrike engine.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 3
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"evertvorster\" class=\"mention\">@evertvorster</span> <a target=\"_blank\" data-link-type=\"pr\" data-issue=\"5\" href=\"https://github.com/vegastrike/Assets-Production/pull/5\" data-provider=\"github\" data-issue-repo=\"vegastrike/Assets-Production\" class=\"pr\">vegastrike/Assets-Production#5</a>",
+  "id": "5eeb7b4147fdfd21edcf5513",
+  "issues": [
+   {
+    "number": "5",
+    "repo": "vegastrike/Assets-Production"
+   }
+  ],
+  "mentions": [
+   {
+    "screenName": "evertvorster",
+    "userId": "5ee87e79d73408ce4fe701e8",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-18T14:33:37.852Z",
+  "text": "@evertvorster https://github.com/vegastrike/Assets-Production/pull/5",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 3
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"ermo\" class=\"mention\">@ermo</span>  thoughts?",
+  "id": "5eeb7b876c06cd1bf43de63e",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "ermo",
+    "userId": "5d7697add73408ce4fca713f",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-06-18T14:34:47.765Z",
+  "text": "@ermo  thoughts?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/ermo",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/118045?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/118045?v=4&s=60",
+   "displayName": "Rune Morling",
+   "gv": "4",
+   "id": "5d7697add73408ce4fca713f",
+   "url": "/ermo",
+   "username": "ermo",
+   "v": 11
+  },
+  "html": "bleh",
+  "id": "5f0259fcec4a341bee0d09cd",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-07-05T22:53:48.713Z",
+  "text": "bleh",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nabaco",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=60",
+   "displayName": "Nachum Barcohen",
+   "gv": "4",
+   "id": "5cf91f0bd73408ce4fc25bc2",
+   "url": "/nabaco",
+   "username": "nabaco",
+   "v": 24
+  },
+  "html": "<p>that&#39;s an interesting thought ;)</p><blockquote>\n<p>bleh</p></blockquote>\n",
+  "id": "5f025a4eb8152d3484846a06",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-07-05T22:55:10.653Z",
+  "text": "that's an interesting thought ;)\n> bleh\n\n",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2020-07-05T23:06:50.301Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/ermo",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/118045?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/118045?v=4&s=60",
+   "displayName": "Rune Morling",
+   "gv": "4",
+   "id": "5d7697add73408ce4fca713f",
+   "url": "/ermo",
+   "username": "ermo",
+   "v": 11
+  },
+  "html": "I agree with the approach where the startup scripts belong to the assets and assume that the base engine is installed. That seems the sane approach.",
+  "id": "5f025ad57ba3965373ecbe4b",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-07-05T22:57:25.113Z",
+  "text": "I agree with the approach where the startup scripts belong to the assets and assume that the base engine is installed. That seems the sane approach.",
+  "unread": false,
+  "urls": [],
+  "v": 3
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/ermo",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/118045?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/118045?v=4&s=60",
+   "displayName": "Rune Morling",
+   "gv": "4",
+   "id": "5d7697add73408ce4fca713f",
+   "url": "/ermo",
+   "username": "ermo",
+   "v": 11
+  },
+  "html": "in essence, it makes the engine a rundep of the assets, which most (if not all) packaging systems support specifying",
+  "id": "5f025b007ba3965373ecbea4",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-07-05T22:58:08.465Z",
+  "text": "in essence, it makes the engine a rundep of the assets, which most (if not all) packaging systems support specifying",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2020-07-05T23:06:34.530Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/ermo",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/118045?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/118045?v=4&s=60",
+   "displayName": "Rune Morling",
+   "gv": "4",
+   "id": "5d7697add73408ce4fca713f",
+   "url": "/ermo",
+   "username": "ermo",
+   "v": 11
+  },
+  "html": "and hence, this is perfectly compatible with was suggested towards the bottom of <a target=\"_blank\" data-link-type=\"issue\" data-issue=\"98\" class=\"issue\">#98</a>",
+  "id": "5f025ce5d65a3b0292ce9635",
+  "issues": [
+   {
+    "number": "98"
+   }
+  ],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-07-05T23:06:13.515Z",
+  "text": "and hence, this is perfectly compatible with was suggested towards the bottom of #98",
+  "unread": false,
+  "urls": [],
+  "v": 2
+ }
+]
