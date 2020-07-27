@@ -10845,5 +10845,29 @@
   "unread": true,
   "urls": [],
   "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 3
+  },
+  "html": "initial archive up; I&#39;m going to do another archive to get this message then delete the room.<br>Thanks all!",
+  "id": "5f1f1947b1409c060f896c95",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 1,
+  "sent": "2020-07-27T18:13:27.569Z",
+  "text": "initial archive up; I'm going to do another archive to get this message then delete the room.\nThanks all!",
+  "unread": false,
+  "urls": [],
+  "v": 1
  }
 ]
