@@ -3420,5 +3420,4285 @@
   "unread": false,
   "urls": [],
   "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "argh...fixed something locally so that it runs a little - still gotta setup the keys; but it runs through...until it tries to install Postgres and gets blocked by SystemD",
+  "id": "5f1fb6d6d7efe5438f26edb6",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-07-28T05:25:42.533Z",
+  "text": "argh...fixed something locally so that it runs a little - still gotta setup the keys; but it runs through...until it tries to install Postgres and gets blocked by SystemD",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "b/c the system didn&#39;t make /run/systemd a large enough RAM disk (12MB instead of systemd&#39;s required 16 MB)",
+  "id": "5f1fb71fcd7bed0e37968532",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-07-28T05:26:55.956Z",
+  "text": "b/c the system didn't make /run/systemd a large enough RAM disk (12MB instead of systemd's required 16 MB)",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "it&#39;s a PITA to fix and I&#39;m too tired to do so tonight",
+  "id": "5f1fb72b277996680107666d",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-07-28T05:27:07.723Z",
+  "text": "it's a PITA to fix and I'm too tired to do so tonight",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nabaco",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=60",
+   "displayName": "Nachum Barcohen",
+   "gv": "4",
+   "id": "5cf91f0bd73408ce4fc25bc2",
+   "url": "/nabaco",
+   "username": "nabaco",
+   "v": 36
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"BenjamenMeyer\" class=\"mention\">@BenjamenMeyer</span> thank you for all of your efforts to bring it up",
+  "id": "5f1fc1dccd7bed0e37969ed2",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "BenjamenMeyer",
+    "userId": "5e86b71dd73408ce4fdf0da2",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-07-28T06:12:44.132Z",
+  "text": "@BenjamenMeyer thank you for all of your efforts to bring it up",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "okay that was a PITA - and after a few hours I have something that will now install",
+  "id": "5f20fd97c1c0090e64acadc7",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-07-29T04:39:51.431Z",
+  "text": "okay that was a PITA - and after a few hours I have something that will now install",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2020-07-29T04:42:07.042Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "basically, the junk that is SystemD requires the tmpfs mount for /run to be at least 20MB; but the initramfs tools default to have it set to 10% of RAM. if RAM is too small, then you end up with too small a space and SystemD then refuses to restart services.",
+  "id": "5f20fdf43eef7e1ffe3ea9b9",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-07-29T04:41:24.160Z",
+  "text": "basically, the junk that is SystemD requires the tmpfs mount for /run to be at least 20MB; but the initramfs tools default to have it set to 10% of RAM. if RAM is too small, then you end up with too small a space and SystemD then refuses to restart services.",
+  "unread": false,
+  "urls": [],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "Version 132 of initramfs-tools-core and later added an option accessible via either the boot parameters (/etc/default/grub as initramfs.runsize) or via the tool&#39;s configuration (/etc/initramfs-tools/conf.d/* - add a file with the RUNSIZE parameter set)",
+  "id": "5f20fe77a050df4300212847",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-07-29T04:43:35.175Z",
+  "text": "Version 132 of initramfs-tools-core and later added an option accessible via either the boot parameters (/etc/default/grub as initramfs.runsize) or via the tool's configuration (/etc/initramfs-tools/conf.d/* - add a file with the RUNSIZE parameter set)",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "However, older versions require that /run have an entry in /etc/fstab to specify the size which SystemD is suppose to auto-detect and resize for you...only issue is that JournalD apparently may end up using up the whole space still because it configures itself based on the older, smaller disk.",
+  "id": "5f20fec925cae90e6d89ca11",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-07-29T04:44:57.182Z",
+  "text": "However, older versions require that /run have an entry in /etc/fstab to specify the size which SystemD is suppose to auto-detect and resize for you...only issue is that JournalD apparently may end up using up the whole space still because it configures itself based on the older, smaller disk.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "any how...I&#39;ve figured out how to do all three methods and detect which version is installed all in Ansible so it&#39;s taken care of automatically",
+  "id": "5f20feecc1c0090e64acafbc",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-07-29T04:45:32.478Z",
+  "text": "any how...I've figured out how to do all three methods and detect which version is installed all in Ansible so it's taken care of automatically",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "that&#39;s all for tonight...I&#39;ll get back to the key data generation tomorrow",
+  "id": "5f20ff1ba050df430021296a",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-07-29T04:46:19.006Z",
+  "text": "that's all for tonight...I'll get back to the key data generation tomorrow",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "I&#39;ve generated the DKIM keys locally; I need to build out a Lets Encrypt role - I&#39;ve got something from my mail servers to draw from for that.",
+  "id": "5f224b01d7efe5438f2ded00",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-07-30T04:22:25.880Z",
+  "text": "I've generated the DKIM keys locally; I need to build out a Lets Encrypt role - I've got something from my mail servers to draw from for that.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "will do more tomorrow",
+  "id": "5f224c323eef7e1ffe423cc6",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-07-30T04:27:30.815Z",
+  "text": "will do more tomorrow",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "okay - I&#39;ve added the DKIM keys to the ansible, and setup let&#39;s encrypt on the local VM.",
+  "id": "5f2508e7b6f7406a74fe933f",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-01T06:17:11.586Z",
+  "text": "okay - I've added the DKIM keys to the ansible, and setup let's encrypt on the local VM.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "Let&#39;s Encrypt requires a public IP so it doesn&#39;t get used on the local VM; I&#39;ll have to test the last step once we have a server setup",
+  "id": "5f2509098d82e66252f9e5ff",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-01T06:17:45.915Z",
+  "text": "Let's Encrypt requires a public IP so it doesn't get used on the local VM; I'll have to test the last step once we have a server setup",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "I still need to add the usage of the Let&#39;s Encrypt SSL certs to dovecot/postfix",
+  "id": "5f25091d03d73b60ee5c3930",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-01T06:18:05.896Z",
+  "text": "I still need to add the usage of the Let's Encrypt SSL certs to dovecot/postfix",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "we still need to decide on a mailing list serve tool to integrate",
+  "id": "5f250952a0bdc3101d476950",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-01T06:18:58.360Z",
+  "text": "we still need to decide on a mailing list serve tool to integrate",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "and then I&#39;ll need to figure out setting up the <code>maintainers@</code> and <code>social@</code> emails",
+  "id": "5f250968b9bc40357bad8e7a",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-01T06:19:20.995Z",
+  "text": "and then I'll need to figure out setting up the `maintainers@` and `social@` emails",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "any  how... time to hit the hay",
+  "id": "5f250971a2be904990849eed",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-01T06:19:29.321Z",
+  "text": "any  how... time to hit the hay",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "and just FYI - I&#39;ll be busy with family for Saturday; might check in Saturday evening",
+  "id": "5f25099b6334d26a7e69185f",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-01T06:20:11.513Z",
+  "text": "and just FYI - I'll be busy with family for Saturday; might check in Saturday evening",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "okay - about ready to spin up a server in DO and start testing as there are certain things that can&#39;t be tested in a VM - namely as Let&#39;s Encrypt has some requirements of being an internet accessible server",
+  "id": "5f2789fe03d73b60ee61e6e5",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-03T03:52:30.222Z",
+  "text": "okay - about ready to spin up a server in DO and start testing as there are certain things that can't be tested in a VM - namely as Let's Encrypt has some requirements of being an internet accessible server",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"www2000\" class=\"mention\">@www2000</span> do we have the <code>maintainer@vega-strike.org</code> email already setup? Or do we only have <code>social@vega-strike.org</code>?",
+  "id": "5f278a2bb9bc40357bb33ce4",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "www2000",
+    "userId": "5caf47acd73408ce4fbd761d",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-03T03:53:15.137Z",
+  "text": "@www2000 do we have the `maintainer@vega-strike.org` email already setup? Or do we only have `social@vega-strike.org`?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "updated ansible...should have full let&#39;s encrypt configuration and a more secure OpenSSL DH configuration too.",
+  "id": "5f2b8c12028fac5e4d9c2ebc",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-06T04:50:26.433Z",
+  "text": "updated ansible...should have full let's encrypt configuration and a more secure OpenSSL DH configuration too.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "still need to configure the let&#39;s encrypt INI file before we spin up a server though",
+  "id": "5f2b8c3883a82b0f05a2f3af",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-06T04:51:04.582Z",
+  "text": "still need to configure the let's encrypt INI file before we spin up a server though",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/www2000",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/721977?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/721977?v=4&s=60",
+   "displayName": "www2000",
+   "gv": "4",
+   "id": "5caf47acd73408ce4fbd761d",
+   "url": "/www2000",
+   "username": "www2000",
+   "v": 19
+  },
+  "html": "current only social i make a maintainer",
+  "id": "5f2bd85fd0282f03368060b9",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-06T10:15:59.507Z",
+  "text": "current only social i make a maintainer",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/www2000",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/721977?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/721977?v=4&s=60",
+   "displayName": "www2000",
+   "gv": "4",
+   "id": "5caf47acd73408ce4fbd761d",
+   "url": "/www2000",
+   "username": "www2000",
+   "v": 19
+  },
+  "html": "i pm you the info of the box",
+  "id": "5f2bd8c651ed3a73fe15b34f",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-06T10:17:42.231Z",
+  "text": "i pm you the info of the box",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "Thanks",
+  "id": "5f2cc7269231d665df5f7150",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-07T03:14:46.206Z",
+  "text": "Thanks",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "Got it; will try in the morning",
+  "id": "5f2cc73465e829425e68c633",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-07T03:15:00.247Z",
+  "text": "Got it; will try in the morning",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Loki1950",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=60",
+   "displayName": "Loki1950",
+   "gv": "4",
+   "id": "5e90e822d73408ce4fe00596",
+   "url": "/Loki1950",
+   "username": "Loki1950",
+   "v": 903
+  },
+  "html": "Just got a security advisory from GitHub on the vegastrike/vegastrike.github.io repo in the Gemfile.lock",
+  "id": "5f2ecc364c89605c7f829236",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-08T16:00:54.370Z",
+  "text": "Just got a security advisory from GitHub on the vegastrike/vegastrike.github.io repo in the Gemfile.lock",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "Probably a dependency needs updating.",
+  "id": "5f2ef51679da21426f2107d0",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-08T18:55:18.574Z",
+  "text": "Probably a dependency needs updating.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nabaco",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=60",
+   "displayName": "Nachum Barcohen",
+   "gv": "4",
+   "id": "5cf91f0bd73408ce4fc25bc2",
+   "url": "/nabaco",
+   "username": "nabaco",
+   "v": 36
+  },
+  "html": "I&#39;m on it",
+  "id": "5f2fca9c9231d665df66f1aa",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-09T10:06:20.184Z",
+  "text": "I'm on it",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Loki1950",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=60",
+   "displayName": "Loki1950",
+   "gv": "4",
+   "id": "5e90e822d73408ce4fe00596",
+   "url": "/Loki1950",
+   "username": "Loki1950",
+   "v": 903
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"nabaco\" class=\"mention\">@nabaco</span>  thx",
+  "id": "5f3020ed9b76045d5b8a96bf",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "nabaco",
+    "userId": "5cf91f0bd73408ce4fc25bc2",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-09T16:14:37.269Z",
+  "text": "@nabaco  thx",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nabaco",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=60",
+   "displayName": "Nachum Barcohen",
+   "gv": "4",
+   "id": "5cf91f0bd73408ce4fc25bc2",
+   "url": "/nabaco",
+   "username": "nabaco",
+   "v": 36
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"BenjamenMeyer\" class=\"mention\">@BenjamenMeyer</span> so are we ready to spin up a droplet? :)",
+  "id": "5f303c639b76045d5b8adeb7",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "BenjamenMeyer",
+    "userId": "5e86b71dd73408ce4fdf0da2",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-09T18:11:47.033Z",
+  "text": "@BenjamenMeyer so are we ready to spin up a droplet? :)",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nabaco",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=60",
+   "displayName": "Nachum Barcohen",
+   "gv": "4",
+   "id": "5cf91f0bd73408ce4fc25bc2",
+   "url": "/nabaco",
+   "username": "nabaco",
+   "v": 36
+  },
+  "html": "<blockquote>\n<p>Probably a dependency needs updating.</p></blockquote>\n<p>made a PR for this: <a href=\"https://github.com/vegastrike/vegastrike.github.io/pull/13/files\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link \">https://github.com/vegastrike/vegastrike.github.io/pull/13/files</a></p>",
+  "id": "5f3046eea4768b68568230a3",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-09T18:56:46.946Z",
+  "text": "> Probably a dependency needs updating.\n\nmade a PR for this: https://github.com/vegastrike/vegastrike.github.io/pull/13/files",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://github.com/vegastrike/vegastrike.github.io/pull/13/files"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Loki1950",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=60",
+   "displayName": "Loki1950",
+   "gv": "4",
+   "id": "5e90e822d73408ce4fe00596",
+   "url": "/Loki1950",
+   "username": "Loki1950",
+   "v": 903
+  },
+  "html": "Just reviewed it <span data-link-type=\"mention\" data-screen-name=\"nabaco\" class=\"mention\">@nabaco</span> so you do the merge at your convenience. ",
+  "id": "5f3047edd4bc1a71bc8d27d9",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "nabaco",
+    "userId": "5cf91f0bd73408ce4fc25bc2",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-09T19:01:01.558Z",
+  "text": "Just reviewed it @nabaco so you do the merge at your convenience. ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nabaco",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=60",
+   "displayName": "Nachum Barcohen",
+   "gv": "4",
+   "id": "5cf91f0bd73408ce4fc25bc2",
+   "url": "/nabaco",
+   "username": "nabaco",
+   "v": 36
+  },
+  "html": "thank you",
+  "id": "5f304803fe39ca5d658fb24d",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-09T19:01:23.359Z",
+  "text": "thank you",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"nabaco\" class=\"mention\">@nabaco</span> just about ready to spin up a droplet",
+  "id": "5f30bf96d28b99685e539615",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "nabaco",
+    "userId": "5cf91f0bd73408ce4fc25bc2",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T03:31:34.529Z",
+  "text": "@nabaco just about ready to spin up a droplet",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "reviewing the page that <span data-link-type=\"mention\" data-screen-name=\"www2000\" class=\"mention\">@www2000</span> used for his config and seeing if there is anything else I need to add to the ansible first; it&#39;s pretty close.",
+  "id": "5f30bfa8d28b99685e539630",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "www2000",
+    "userId": "5caf47acd73408ce4fbd761d",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T03:31:52.379Z",
+  "text": "reviewing the page that @www2000 used for his config and seeing if there is anything else I need to add to the ansible first; it's pretty close.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2020-08-10T03:33:31.564Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "I don&#39;t have Amavis, SpamAssassin, ClamAV, etc integrated in yet",
+  "id": "5f30bfb4811d3571b3b8e217",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T03:32:04.874Z",
+  "text": "I don't have Amavis, SpamAssassin, ClamAV, etc integrated in yet",
+  "unread": false,
+  "urls": [],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "nor have I setup any mailboxes - I generally map that to a user",
+  "id": "5f30c02465e829425e727950",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T03:33:56.897Z",
+  "text": "nor have I setup any mailboxes - I generally map that to a user",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "though in our case, I think it&#39;d be better to have our <code>maintainer@</code> and <code>social@</code> go to a small mailing list",
+  "id": "5f30c03b88719865d94eb8f1",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T03:34:19.792Z",
+  "text": "though in our case, I think it'd be better to have our `maintainer@` and `social@` go to a small mailing list",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Loki1950",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=60",
+   "displayName": "Loki1950",
+   "gv": "4",
+   "id": "5e90e822d73408ce4fe00596",
+   "url": "/Loki1950",
+   "username": "Loki1950",
+   "v": 903
+  },
+  "html": "&lt;:+1:",
+  "id": "5f30c042a4768b6856834221",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T03:34:26.826Z",
+  "text": "<:+1:",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "and then we can each have a forwarding address too",
+  "id": "5f30c04eb103e45c8308f71b",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T03:34:38.678Z",
+  "text": "and then we can each have a forwarding address too",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Loki1950",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=60",
+   "displayName": "Loki1950",
+   "gv": "4",
+   "id": "5e90e822d73408ce4fe00596",
+   "url": "/Loki1950",
+   "username": "Loki1950",
+   "v": 903
+  },
+  "html": "That should be useful <span data-link-type=\"mention\" data-screen-name=\"BenjamenMeyer\" class=\"mention\">@BenjamenMeyer</span> ",
+  "id": "5f30c083d4bc1a71bc8e371a",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "BenjamenMeyer",
+    "userId": "5e86b71dd73408ce4fdf0da2",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T03:35:31.825Z",
+  "text": "That should be useful @BenjamenMeyer ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "so <code>ben.meyer@vega-strike.org</code> or <code>bmeyer@vegastrike.org</code> - whatever we decide on - would forward to my personal email",
+  "id": "5f30c089811d3571b3b8e3b5",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T03:35:37.055Z",
+  "text": "so `ben.meyer@vega-strike.org` or `bmeyer@vegastrike.org` - whatever we decide on - would forward to my personal email",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "it could be useful for marketing materials, etc for the project",
+  "id": "5f30c09b88719865d94eb986",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T03:35:55.005Z",
+  "text": "it could be useful for marketing materials, etc for the project",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "that would also alleviate us from having any local users accounts with emails too",
+  "id": "5f30c0ad51bb7d3380df54a6",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T03:36:13.883Z",
+  "text": "that would also alleviate us from having any local users accounts with emails too",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "but I haven&#39;t setup that kind of stuff with postfix/dovecot before",
+  "id": "5f30c0badca038052a5bf385",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T03:36:26.036Z",
+  "text": "but I haven't setup that kind of stuff with postfix/dovecot before",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "we probably should also have a <code>security@</code> mailing list too in case of any reported CVEs",
+  "id": "5f30c0f788719865d94eba14",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T03:37:27.617Z",
+  "text": "we probably should also have a `security@` mailing list too in case of any reported CVEs",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "or other potential issues that might arise",
+  "id": "5f30c102d4bc1a71bc8e37e9",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T03:37:38.418Z",
+  "text": "or other potential issues that might arise",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "(even with infrastructure)",
+  "id": "5f30c10865e829425e727ace",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T03:37:44.280Z",
+  "text": "(even with infrastructure)",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "I&#39;ve got an hour or so tonight...I&#39;ll take a look at getting Amavis integrated first",
+  "id": "5f30c12488719865d94eba97",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T03:38:12.058Z",
+  "text": "I've got an hour or so tonight...I'll take a look at getting Amavis integrated first",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Loki1950",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=60",
+   "displayName": "Loki1950",
+   "gv": "4",
+   "id": "5e90e822d73408ce4fe00596",
+   "url": "/Loki1950",
+   "username": "Loki1950",
+   "v": 903
+  },
+  "html": "Or the old standby webmaster@.",
+  "id": "5f30c13f51bb7d3380df5646",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T03:38:39.268Z",
+  "text": "Or the old standby webmaster@.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "is that still used? but yeah, we could do that too",
+  "id": "5f30c16ba4768b6856834410",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T03:39:23.664Z",
+  "text": "is that still used? but yeah, we could do that too",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Loki1950",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=60",
+   "displayName": "Loki1950",
+   "gv": "4",
+   "id": "5e90e822d73408ce4fe00596",
+   "url": "/Loki1950",
+   "username": "Loki1950",
+   "v": 903
+  },
+  "html": "Depends on when the project started up I expect.",
+  "id": "5f30c1a09231d665df694056",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T03:40:16.981Z",
+  "text": "Depends on when the project started up I expect.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Loki1950",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=60",
+   "displayName": "Loki1950",
+   "gv": "4",
+   "id": "5e90e822d73408ce4fe00596",
+   "url": "/Loki1950",
+   "username": "Loki1950",
+   "v": 903
+  },
+  "html": "Time for me to get horizontal on the morrow.",
+  "id": "5f30c2264c89605c7f872fac",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T03:42:30.049Z",
+  "text": "Time for me to get horizontal on the morrow.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"nabaco\" class=\"mention\">@nabaco</span> do we want to deploy on Ubuntu 20.04?",
+  "id": "5f30cd2f733c00338f01c75f",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "nabaco",
+    "userId": "5cf91f0bd73408ce4fc25bc2",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T04:29:35.753Z",
+  "text": "@nabaco do we want to deploy on Ubuntu 20.04?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "I&#39;m using Deb9 as a test bed right now...considering swapping to 20.04 to match up to some documentation.",
+  "id": "5f30cd4aa4768b6856835e55",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T04:30:02.292Z",
+  "text": "I'm using Deb9 as a test bed right now...considering swapping to 20.04 to match up to some documentation.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "heading horizontal myself now...",
+  "id": "5f30d8d3dca038052a5c2bc2",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T05:19:15.723Z",
+  "text": "heading horizontal myself now...",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nabaco",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=60",
+   "displayName": "Nachum Barcohen",
+   "gv": "4",
+   "id": "5cf91f0bd73408ce4fc25bc2",
+   "url": "/nabaco",
+   "username": "nabaco",
+   "v": 36
+  },
+  "html": "I personally prefer ubuntu",
+  "id": "5f310d3d65e829425e7331b3",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T09:02:53.115Z",
+  "text": "I personally prefer ubuntu",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nabaco",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=60",
+   "displayName": "Nachum Barcohen",
+   "gv": "4",
+   "id": "5cf91f0bd73408ce4fc25bc2",
+   "url": "/nabaco",
+   "username": "nabaco",
+   "v": 36
+  },
+  "html": "maybe even 18.04, as currently there is more documentation there",
+  "id": "5f310d4cb103e45c8309b1d8",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T09:03:08.218Z",
+  "text": "maybe even 18.04, as currently there is more documentation there",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "I&#39;d go with 20.04 for longevity, the delta won&#39;t be that great",
+  "id": "5f3144bf733c00338f0308ac",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T12:59:43.954Z",
+  "text": "I'd go with 20.04 for longevity, the delta won't be that great",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "and i can easily figure out any differences in between the two",
+  "id": "5f3144cc733c00338f0308d5",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T12:59:56.035Z",
+  "text": "and i can easily figure out any differences in between the two",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "cool; I standardize on that... just gotta upgrade my VirtualBox install so the vagrant boxes will work properly...",
+  "id": "5f3144f179da21426f268bdf",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T13:00:33.731Z",
+  "text": "cool; I standardize on that... just gotta upgrade my VirtualBox install so the vagrant boxes will work properly...",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2020-08-10T13:25:39.628Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nabaco",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=60",
+   "displayName": "Nachum Barcohen",
+   "gv": "4",
+   "id": "5cf91f0bd73408ce4fc25bc2",
+   "url": "/nabaco",
+   "username": "nabaco",
+   "v": 36
+  },
+  "html": ":+1:",
+  "id": "5f314acffe39ca5d65923ac2",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T13:25:35.385Z",
+  "text": ":+1:",
+  "unread": false,
+  "urls": [],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "well. found the issue... the 20.04 vagrant box is built for libvirt not virtualbox... though trying to add libvirt plugin vagrant is proving difficult...all said, I&#39;m going to have to go through and do the 19.10 to 20.04 upgrade first I think.... yeah...",
+  "id": "5f314b1688719865d95023f3",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T13:26:46.321Z",
+  "text": "well. found the issue... the 20.04 vagrant box is built for libvirt not virtualbox... though trying to add libvirt plugin vagrant is proving difficult...all said, I'm going to have to go through and do the 19.10 to 20.04 upgrade first I think.... yeah...",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "been delaying it, but gotta do it",
+  "id": "5f314b1f51bb7d3380e0ba8f",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T13:26:55.344Z",
+  "text": "been delaying it, but gotta do it",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nabaco",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=60",
+   "displayName": "Nachum Barcohen",
+   "gv": "4",
+   "id": "5cf91f0bd73408ce4fc25bc2",
+   "url": "/nabaco",
+   "username": "nabaco",
+   "v": 36
+  },
+  "html": "good luck",
+  "id": "5f314bcb88719865d95025bc",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T13:29:47.628Z",
+  "text": "good luck",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "well that was painless",
+  "id": "5f31645d9b76045d5b8dcb03",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T15:14:37.057Z",
+  "text": "well that was painless",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": ":)",
+  "id": "5f31645e811d3571b3baa216",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-10T15:14:38.339Z",
+  "text": ":)",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "just to give an update...I&#39;m fighting with libvirt, vagrant, and building a network.",
+  "id": "5f3615a8e8eb3939a48f7cb4",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-14T04:40:08.788Z",
+  "text": "just to give an update...I'm fighting with libvirt, vagrant, and building a network.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "any how...time to get horizontal",
+  "id": "5f3615de87848e2119e4ce55",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-14T04:41:02.196Z",
+  "text": "any how...time to get horizontal",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nabaco",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=60",
+   "displayName": "Nachum Barcohen",
+   "gv": "4",
+   "id": "5cf91f0bd73408ce4fc25bc2",
+   "url": "/nabaco",
+   "username": "nabaco",
+   "v": 36
+  },
+  "html": "Need any help?",
+  "id": "5f3857144d3fd87ee7d881e0",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-15T21:43:48.816Z",
+  "text": "Need any help?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "FYI - I&#39;ll be bouncing between getting this up, and setting up  local k8s on RPi4s this next week (also via Ansible).",
+  "id": "5f38a5e560892e0c6974abe5",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-16T03:20:05.912Z",
+  "text": "FYI - I'll be bouncing between getting this up, and setting up  local k8s on RPi4s this next week (also via Ansible).",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "Let&#39;s see what I can get done tonight.",
+  "id": "5f38a5e91226fc2133580027",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-16T03:20:09.882Z",
+  "text": "Let's see what I can get done tonight.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "okay - figured out the issues with libvirt:<br>(a) cleaning up Vagrant VMs deployed with one engine (VirtualBox) doesn&#39;t necessarily clean up all resources (general network bridge)<br>(b) libvirt doesn&#39;t give good errors; the VM was assigned too little memory (128MB); once I up&#39;d it (512MB) it worked fine. Deb9 did fine with 128MB under VBox; but apparently Ubuntu Focal (20.04) wants more. Didn&#39;t play around to see what the minimal was. Oh - and found this by using <code>virt-manager</code> (the GUI for libvirt) to start and see the image boot up, which gave an &quot;out of memory&quot; error.",
+  "id": "5f3a1459c7637c27000c6f07",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-17T05:23:37.068Z",
+  "text": "okay - figured out the issues with libvirt:\n(a) cleaning up Vagrant VMs deployed with one engine (VirtualBox) doesn't necessarily clean up all resources (general network bridge)\n(b) libvirt doesn't give good errors; the VM was assigned too little memory (128MB); once I up'd it (512MB) it worked fine. Deb9 did fine with 128MB under VBox; but apparently Ubuntu Focal (20.04) wants more. Didn't play around to see what the minimal was. Oh - and found this by using `virt-manager` (the GUI for libvirt) to start and see the image boot up, which gave an \"out of memory\" error.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "any how...the basic Vagrant stuff is working on it now; so I&#39;ll be able to get back to testing the other ansible stuff tomorrow.",
+  "id": "5f3a147b4d3fd87ee7dc5b00",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-17T05:24:11.719Z",
+  "text": "any how...the basic Vagrant stuff is working on it now; so I'll be able to get back to testing the other ansible stuff tomorrow.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"nabaco\" class=\"mention\">@nabaco</span> once I get through this round and push the changes up (PR? not sure yet) then it would be good to have a second person run it similarly. Should be fully reproducible but it would be good to verify that I caught added everything to ansible correctly.",
+  "id": "5f3a14bc083f3b79c336db4d",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "nabaco",
+    "userId": "5cf91f0bd73408ce4fc25bc2",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-17T05:25:16.436Z",
+  "text": "@nabaco once I get through this round and push the changes up (PR? not sure yet) then it would be good to have a second person run it similarly. Should be fully reproducible but it would be good to verify that I caught added everything to ansible correctly.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "time for bed",
+  "id": "5f3a14d2ba27767ee5f68cd9",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-17T05:25:38.812Z",
+  "text": "time for bed",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nabaco",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=60",
+   "displayName": "Nachum Barcohen",
+   "gv": "4",
+   "id": "5cf91f0bd73408ce4fc25bc2",
+   "url": "/nabaco",
+   "username": "nabaco",
+   "v": 36
+  },
+  "html": "sure thing. I&#39;ll gladly try to run this on my side both to learn the system and verify it",
+  "id": "5f3a23cf87848e2119ee7dfa",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-17T06:29:35.554Z",
+  "text": "sure thing. I'll gladly try to run this on my side both to learn the system and verify it",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nabaco",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=60",
+   "displayName": "Nachum Barcohen",
+   "gv": "4",
+   "id": "5cf91f0bd73408ce4fc25bc2",
+   "url": "/nabaco",
+   "username": "nabaco",
+   "v": 36
+  },
+  "html": "Guys, would you kindly approve before I go to sleep? <a target=\"_blank\" data-link-type=\"pr\" data-issue=\"15\" href=\"https://github.com/vegastrike/vegastrike.github.io/pull/15\" data-provider=\"github\" data-issue-repo=\"vegastrike/vegastrike.github.io\" class=\"pr\">vegastrike/vegastrike.github.io#15</a>",
+  "id": "5f3b3a32e51e85413391818a",
+  "issues": [
+   {
+    "number": "15",
+    "repo": "vegastrike/vegastrike.github.io"
+   }
+  ],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-18T02:17:22.174Z",
+  "text": "Guys, would you kindly approve before I go to sleep? https://github.com/vegastrike/vegastrike.github.io/pull/15",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Loki1950",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=60",
+   "displayName": "Loki1950",
+   "gv": "4",
+   "id": "5e90e822d73408ce4fe00596",
+   "url": "/Loki1950",
+   "username": "Loki1950",
+   "v": 903
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"nabaco\" class=\"mention\">@nabaco</span> just reviewed <a target=\"_blank\" data-link-type=\"issue\" data-issue=\"14\" class=\"issue\">#14</a> &amp;<a target=\"_blank\" data-link-type=\"issue\" data-issue=\"15\" class=\"issue\">#15</a>",
+  "id": "5f3b3a77a8c1780176571101",
+  "issues": [
+   {
+    "number": "14"
+   },
+   {
+    "number": "15"
+   }
+  ],
+  "mentions": [
+   {
+    "screenName": "nabaco",
+    "userId": "5cf91f0bd73408ce4fc25bc2",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-18T02:18:31.017Z",
+  "text": "@nabaco just reviewed #14 &#15",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nabaco",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=60",
+   "displayName": "Nachum Barcohen",
+   "gv": "4",
+   "id": "5cf91f0bd73408ce4fc25bc2",
+   "url": "/nabaco",
+   "username": "nabaco",
+   "v": 36
+  },
+  "html": "thanks, merged. should dandify the website a bit",
+  "id": "5f3b3a933dac53434013e1ec",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-18T02:18:59.375Z",
+  "text": "thanks, merged. should dandify the website a bit",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nabaco",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/38861757?v=4&s=60",
+   "displayName": "Nachum Barcohen",
+   "gv": "4",
+   "id": "5cf91f0bd73408ce4fc25bc2",
+   "url": "/nabaco",
+   "username": "nabaco",
+   "v": 36
+  },
+  "html": "we should make a new post regarding the alpha releases ",
+  "id": "5f3b3aa6e51e854133918267",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-18T02:19:18.180Z",
+  "text": "we should make a new post regarding the alpha releases ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Loki1950",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=60",
+   "displayName": "Loki1950",
+   "gv": "4",
+   "id": "5e90e822d73408ce4fe00596",
+   "url": "/Loki1950",
+   "username": "Loki1950",
+   "v": 903
+  },
+  "html": "Indeed like the colour :+1: ",
+  "id": "5f3b3abbe51e8541339182b9",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-18T02:19:39.429Z",
+  "text": "Indeed like the colour :+1: ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"nabaco\" class=\"mention\">@nabaco</span> <span data-link-type=\"mention\" data-screen-name=\"Loki1950\" class=\"mention\">@Loki1950</span> I created <a href=\"https://hub.docker.com/orgs/vegastrike\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link \">https://hub.docker.com/orgs/vegastrike</a> so we can use custom images for our CI system; I&#39;m on it and I&#39;ve added Stephen Tuggy as he&#39;s building out the docker support. As it&#39;s a Community Organization I can only add one more member to the team. Please let me know if either of you would like to be that additional person.",
+  "id": "5f3df3f63dac5343401b1c64",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "nabaco",
+    "userId": "5cf91f0bd73408ce4fc25bc2",
+    "userIds": []
+   },
+   {
+    "screenName": "Loki1950",
+    "userId": "5e90e822d73408ce4fe00596",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-20T03:54:30.540Z",
+  "text": "@nabaco @Loki1950 I created https://hub.docker.com/orgs/vegastrike so we can use custom images for our CI system; I'm on it and I've added Stephen Tuggy as he's building out the docker support. As it's a Community Organization I can only add one more member to the team. Please let me know if either of you would like to be that additional person.",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://hub.docker.com/orgs/vegastrike"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "okay...caught up with myself on where I am on the ansible stuff now that I&#39;ve converted over to libvirt",
+  "id": "5f3fc85a9bad075eacc9b7f1",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-21T13:12:58.756Z",
+  "text": "okay...caught up with myself on where I am on the ansible stuff now that I've converted over to libvirt",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "everything installed; now I just need to finish out the clamav+amavis+spamassassin configuration",
+  "id": "5f3fc879765d633c54a361dd",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-21T13:13:29.546Z",
+  "text": "everything installed; now I just need to finish out the clamav+amavis+spamassassin configuration",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "sorry for the long delay",
+  "id": "5f3fc884d4f0f55ebbcfd322",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-08-21T13:13:40.074Z",
+  "text": "sorry for the long delay",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": " okay...just got caught up with myself again...need to get clamav/spamassassin/amavis configured and then should be good to spin up a server in DO",
+  "id": "5f5a29f0b190f2328e645484",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2020-09-10T13:28:16.833Z",
+  "text": " okay...just got caught up with myself again...need to get clamav/spamassassin/amavis configured and then should be good to spin up a server in DO",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "I&#39;ll try to get that done by Monday",
+  "id": "5f5a2a06603d0b37f4223fc8",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2020-09-10T13:28:38.560Z",
+  "text": "I'll try to get that done by Monday",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "family life happened and wasn&#39;t able to get to it over the weekend at all",
+  "id": "5f5f6e8cc1d1a53705a03c38",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2020-09-14T13:22:20.457Z",
+  "text": "family life happened and wasn't able to get to it over the weekend at all",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "okay - getting to it...let&#39;s see how much I can get done in vagrant tonight",
+  "id": "5f641e4b5fde567ffa548ced",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2020-09-18T02:41:15.234Z",
+  "text": "okay - getting to it...let's see how much I can get done in vagrant tonight",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "good progress tonight...spamassassin, clamav, and amavis mostly configured - gotta get to bed; but waiting on a run for verifying a step.",
+  "id": "5f6448cdb468994d0d37ecbd",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2020-09-18T05:42:37.098Z",
+  "text": "good progress tonight...spamassassin, clamav, and amavis mostly configured - gotta get to bed; but waiting on a run for verifying a step.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "next up seeing if I need to adjust the postfix/dovecot configs to use the new tools.",
+  "id": "5f6448e2f51808513b4ecf62",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2020-09-18T05:42:58.530Z",
+  "text": "next up seeing if I need to adjust the postfix/dovecot configs to use the new tools.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "yep...postfix has content filter that needs to be configured; hopefully I can get that done tomorrow",
+  "id": "5f64491ca9c2c8511ea1790f",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2020-09-18T05:43:56.463Z",
+  "text": "yep...postfix has content filter that needs to be configured; hopefully I can get that done tomorrow",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/www2000",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/721977?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/721977?v=4&s=60",
+   "displayName": "www2000",
+   "gv": "4",
+   "id": "5caf47acd73408ce4fbd761d",
+   "url": "/www2000",
+   "username": "www2000",
+   "v": 19
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"BenjamenMeyer\" class=\"mention\">@BenjamenMeyer</span> i can send you my config after strip the database login details",
+  "id": "5f6536c0a9c2c8511ea3fdc1",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "BenjamenMeyer",
+    "userId": "5e86b71dd73408ce4fdf0da2",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2020-09-18T22:37:52.344Z",
+  "text": "@BenjamenMeyer i can send you my config after strip the database login details",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/www2000",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/721977?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/721977?v=4&s=60",
+   "displayName": "www2000",
+   "gv": "4",
+   "id": "5caf47acd73408ce4fbd761d",
+   "url": "/www2000",
+   "username": "www2000",
+   "v": 19
+  },
+  "html": "for postfix and dovecot",
+  "id": "5f6536df603d0b37f43f1bfb",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2020-09-18T22:38:23.172Z",
+  "text": "for postfix and dovecot",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"www2000\" class=\"mention\">@www2000</span> sure; it&#39;d be good to have another reference...I&#39;m following the link you provided earlier, adjusting for Ubuntu 20.04",
+  "id": "5f657060df4af236f918525b",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "www2000",
+    "userId": "5caf47acd73408ce4fbd761d",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2020-09-19T02:43:44.657Z",
+  "text": "@www2000 sure; it'd be good to have another reference...I'm following the link you provided earlier, adjusting for Ubuntu 20.04",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "PM&#39;d you where to email them",
+  "id": "5f65709c603d0b37f43f96df",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2020-09-19T02:44:44.690Z",
+  "text": "PM'd you where to email them",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/www2000",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/721977?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/721977?v=4&s=60",
+   "displayName": "www2000",
+   "gv": "4",
+   "id": "5caf47acd73408ce4fbd761d",
+   "url": "/www2000",
+   "username": "www2000",
+   "v": 19
+  },
+  "html": "Oke this is an other one but basic the same as you link",
+  "id": "5f6572cd4f19dd09335b0fd2",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2020-09-19T02:54:05.681Z",
+  "text": "Oke this is an other one but basic the same as you link",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "okay - I think I have it; waiting on vagrant again (at a point where it takes a while to run); if my current changes work then I just have to add a reload step and I&#39;m good to go",
+  "id": "5f65967c4f19dd09335b59c9",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2020-09-19T05:26:20.680Z",
+  "text": "okay - I think I have it; waiting on vagrant again (at a point where it takes a while to run); if my current changes work then I just have to add a reload step and I'm good to go",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2020-09-19T05:29:04.575Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "been following <a href=\"https://help.ubuntu.com/community/PostfixAmavisNew\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link \">https://help.ubuntu.com/community/PostfixAmavisNew</a> as it&#39;s simplier than <a href=\"https://www.exratione.com/2019/02/a-mailserver-on-ubuntu-18-04-postfix-dovecot-mysql/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link \">https://www.exratione.com/2019/02/a-mailserver-on-ubuntu-18-04-postfix-dovecot-mysql/</a> and closer to what I&#39;m actually doing.",
+  "id": "5f6596b2b468994d0d3b1e4e",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2020-09-19T05:27:14.208Z",
+  "text": "been following https://help.ubuntu.com/community/PostfixAmavisNew as it's simplier than https://www.exratione.com/2019/02/a-mailserver-on-ubuntu-18-04-postfix-dovecot-mysql/ and closer to what I'm actually doing.",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://help.ubuntu.com/community/PostfixAmavisNew"
+   },
+   {
+    "url": "https://www.exratione.com/2019/02/a-mailserver-on-ubuntu-18-04-postfix-dovecot-mysql/"
+   }
+  ],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "I&#39;ll compare the configs from <span data-link-type=\"mention\" data-screen-name=\"www2000\" class=\"mention\">@www2000</span> once this is all done see if I&#39;ve missed anything",
+  "id": "5f659735ea62d70e651fc2f0",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "www2000",
+    "userId": "5caf47acd73408ce4fbd761d",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2020-09-19T05:29:25.246Z",
+  "text": "I'll compare the configs from @www2000 once this is all done see if I've missed anything",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "okay...amavis, clamav working...",
+  "id": "5f682da8d993b837e0788019",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2020-09-21T04:35:52.783Z",
+  "text": "okay...amavis, clamav working...",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "issues with spamassassin restarting",
+  "id": "5f682daddf4af236f91e8081",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2020-09-21T04:35:57.171Z",
+  "text": "issues with spamassassin restarting",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "will have to tackle that more tomorrow - issue is with a timeout on restart",
+  "id": "5f682ec8df4af236f91e8234",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2020-09-21T04:40:40.851Z",
+  "text": "will have to tackle that more tomorrow - issue is with a timeout on restart",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "in case anyone has any insight into spamassassin and (buggy) systemd",
+  "id": "5f682ee95fde567ffa5e10f9",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2020-09-21T04:41:13.289Z",
+  "text": "in case anyone has any insight into spamassassin and (buggy) systemd",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "took a look at the spamassassin issue...seems to be well known; solution might be modifying the systemd config for spamassassin...just got to get it working correctly - namely, the command times out when restarting spamassassin but it does actually restart properly so need to set a longer timeout period.",
+  "id": "5f6a025befefe620f240673f",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2020-09-22T13:55:39.543Z",
+  "text": "took a look at the spamassassin issue...seems to be well known; solution might be modifying the systemd config for spamassassin...just got to get it working correctly - namely, the command times out when restarting spamassassin but it does actually restart properly so need to set a longer timeout period.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "think I found the solution...just need to test it. If all is good, then I&#39;ll push up my ansible stuff for others to check out.",
+  "id": "5f6ad56f8fe6f11963564fa7",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2020-09-23T04:56:15.923Z",
+  "text": "think I found the solution...just need to test it. If all is good, then I'll push up my ansible stuff for others to check out.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "well, I&#39;ve added functionality to be able to control the timeout...but it doesn&#39;t seem to be helping; I&#39;ll probably push it up AS-IS tonight for others to check out, make sure it&#39;s not something with my VM/local environment.",
+  "id": "5f6ca2030b5f3873c9ed7c84",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2020-09-24T13:41:23.351Z",
+  "text": "well, I've added functionality to be able to control the timeout...but it doesn't seem to be helping; I'll probably push it up AS-IS tonight for others to check out, make sure it's not something with my VM/local environment.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "I think it&#39;s also related to spamassassin, amavis, and clamav each taking up 30% of the VM - even a <code>vagrant ssh</code> into the system takes a long time to gain access at times; so it&#39;s probably something related to local resources which should be resolved in the cloud VM or other systems that have more resources for the VM itself too.",
+  "id": "5f6ca24d6e85e0058c5166e1",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2020-09-24T13:42:37.230Z",
+  "text": "I think it's also related to spamassassin, amavis, and clamav each taking up 30% of the VM - even a `vagrant ssh` into the system takes a long time to gain access at times; so it's probably something related to local resources which should be resolved in the cloud VM or other systems that have more resources for the VM itself too.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "(my little 4GB Laptop with an i5 2520M might be a little under powered)",
+  "id": "5f6ca2816e85e0058c51679b",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2020-09-24T13:43:29.962Z",
+  "text": "(my little 4GB Laptop with an i5 2520M might be a little under powered)",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": " <span data-link-type=\"mention\" data-screen-name=\"nabaco\" class=\"mention\">@nabaco</span> I updated the <a href=\"https://github.com/vegastrike/infrastructure\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link \">https://github.com/vegastrike/infrastructure</a> repository; from now on let&#39;s do PRs against it.",
+  "id": "5f6d64b64002c640b5e60576",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "nabaco",
+    "userId": "5cf91f0bd73408ce4fc25bc2",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2020-09-25T03:32:06.184Z",
+  "text": " @nabaco I updated the https://github.com/vegastrike/infrastructure repository; from now on let's do PRs against it.",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://github.com/vegastrike/infrastructure"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "please check it out and verify",
+  "id": "5f6d64c2efefe620f24947bf",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2020-09-25T03:32:18.835Z",
+  "text": "please check it out and verify",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "unfortunately I can&#39;t add branch protections on that repository since it&#39;s private as GH requires a paid account to do that on private repos.",
+  "id": "5f6d66d2b8a99f4519a66748",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2020-09-25T03:41:06.743Z",
+  "text": "unfortunately I can't add branch protections on that repository since it's private as GH requires a paid account to do that on private repos.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": ":(",
+  "id": "5f6d66d3f41f4105e4d6cf0a",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2020-09-25T03:41:07.426Z",
+  "text": ":(",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2021-01-03T03:01:33.657Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/www2000",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/721977?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/721977?v=4&s=60",
+   "displayName": "www2000",
+   "gv": "4",
+   "id": "5caf47acd73408ce4fbd761d",
+   "url": "/www2000",
+   "username": "www2000",
+   "v": 19
+  },
+  "html": "<span data-link-type=\"groupmention\" data-group-name=\"all\" class=\"groupmention\">@/all</span> He any one can you pm me you email adress for he securety lists?",
+  "id": "5ff13206de608143155bad02",
+  "issues": [],
+  "mentions": [
+   {
+    "announcement": true,
+    "group": true,
+    "screenName": "all",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2021-01-03T02:55:02.871Z",
+  "text": "@/all He any one can you pm me you email adress for he securety lists?",
+  "unread": false,
+  "urls": [],
+  "v": 3
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "Was it <a href=\"mailto:security@lists.vega-strike.org\" rel=\"nofollow\">security@lists.vega-strike.org</a>?",
+  "id": "5ff138b2acd1e516f8cd1b17",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2021-01-03T03:23:30.604Z",
+  "text": "Was it security@lists.vega-strike.org?",
+  "unread": false,
+  "urls": [
+   {
+    "url": "mailto:security@lists.vega-strike.org"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/www2000",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/721977?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/721977?v=4&s=60",
+   "displayName": "www2000",
+   "gv": "4",
+   "id": "5caf47acd73408ce4fbd761d",
+   "url": "/www2000",
+   "username": "www2000",
+   "v": 19
+  },
+  "html": "yes",
+  "id": "5ff139c24eba353cdf149d49",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2021-01-03T03:28:02.753Z",
+  "text": "yes",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2021-01-03T03:40:40.471Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/www2000",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/721977?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/721977?v=4&s=60",
+   "displayName": "www2000",
+   "gv": "4",
+   "id": "5caf47acd73408ce4fbd761d",
+   "url": "/www2000",
+   "username": "www2000",
+   "v": 19
+  },
+  "html": "btw i think i make a <a href=\"mailto:security@vega-strike.org\" rel=\"nofollow\">security@vega-strike.org</a> as a alias for <a href=\"mailto:security@lists.vega-strike.org\" rel=\"nofollow\">security@lists.vega-strike.org</a><br>edit: fix typo",
+  "id": "5ff13ae8acd1e516f8cd2054",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2021-01-03T03:32:56.308Z",
+  "text": "btw i think i make a security@vega-strike.org as a alias for security@lists.vega-strike.org\nedit: fix typo",
+  "unread": false,
+  "urls": [
+   {
+    "url": "mailto:security@vega-strike.org"
+   },
+   {
+    "url": "mailto:security@lists.vega-strike.org"
+   }
+  ],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": ":+1: ",
+  "id": "5ff21962aa6bb528c38b35dc",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2021-01-03T19:22:10.055Z",
+  "text": ":+1: ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/www2000",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/721977?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/721977?v=4&s=60",
+   "displayName": "www2000",
+   "gv": "4",
+   "id": "5caf47acd73408ce4fbd761d",
+   "url": "/www2000",
+   "username": "www2000",
+   "v": 19
+  },
+  "html": "current i have put my main mail server down du to a spam attack",
+  "id": "602223f455359c58bf2fa09f",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-02-09T05:56:04.812Z",
+  "text": "current i have put my main mail server down du to a spam attack",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/www2000",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/721977?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/721977?v=4&s=60",
+   "displayName": "www2000",
+   "gv": "4",
+   "id": "5caf47acd73408ce4fbd761d",
+   "url": "/www2000",
+   "username": "www2000",
+   "v": 19
+  },
+  "html": "i mean my smtp server",
+  "id": "6022243724cd6b60d82a1b60",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-02-09T05:57:11.647Z",
+  "text": "i mean my smtp server",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/www2000",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/721977?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/721977?v=4&s=60",
+   "displayName": "www2000",
+   "gv": "4",
+   "id": "5caf47acd73408ce4fbd761d",
+   "url": "/www2000",
+   "username": "www2000",
+   "v": 19
+  },
+  "html": "note this is a outbound my mail server as a relay.",
+  "id": "602224cd9d5c644f665d54ea",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-02-09T05:59:41.048Z",
+  "text": "note this is a outbound my mail server as a relay.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Loki1950",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=60",
+   "displayName": "Loki1950",
+   "gv": "4",
+   "id": "5e90e822d73408ce4fe00596",
+   "url": "/Loki1950",
+   "username": "Loki1950",
+   "v": 903
+  },
+  "html": "Ouch.",
+  "id": "602298339d5c644f665e7cbe",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-02-09T14:12:03.655Z",
+  "text": "Ouch.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"www2000\" class=\"mention\">@www2000</span> you should disable SMTP relay. Good luck!",
+  "id": "6022a5164f7d1b68e53f9a51",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "www2000",
+    "userId": "5caf47acd73408ce4fbd761d",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-02-09T15:07:02.551Z",
+  "text": "@www2000 you should disable SMTP relay. Good luck!",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/www2000",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/721977?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/721977?v=4&s=60",
+   "displayName": "www2000",
+   "gv": "4",
+   "id": "5caf47acd73408ce4fbd761d",
+   "url": "/www2000",
+   "username": "www2000",
+   "v": 19
+  },
+  "html": "i have work on",
+  "id": "60234bc832e01b4f718748e2",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-02-10T02:58:16.714Z",
+  "text": "i have work on",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/www2000",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/721977?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/721977?v=4&s=60",
+   "displayName": "www2000",
+   "gv": "4",
+   "id": "5caf47acd73408ce4fbd761d",
+   "url": "/www2000",
+   "username": "www2000",
+   "v": 19
+  },
+  "html": "for incoming mail the server is oke",
+  "id": "60234bd89d5c644f66606cea",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-02-10T02:58:32.783Z",
+  "text": "for incoming mail the server is oke",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/www2000",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/721977?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/721977?v=4&s=60",
+   "displayName": "www2000",
+   "gv": "4",
+   "id": "5caf47acd73408ce4fbd761d",
+   "url": "/www2000",
+   "username": "www2000",
+   "v": 19
+  },
+  "html": "i need to check mailing list but thats all",
+  "id": "60234be79238c531ad367c74",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-02-10T02:58:47.958Z",
+  "text": "i need to check mailing list but thats all",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/www2000",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/721977?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/721977?v=4&s=60",
+   "displayName": "www2000",
+   "gv": "4",
+   "id": "5caf47acd73408ce4fbd761d",
+   "url": "/www2000",
+   "username": "www2000",
+   "v": 19
+  },
+  "html": "beside this i am in a middle of a move",
+  "id": "60234c3c0eed905f18a30707",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-02-10T03:00:12.997Z",
+  "text": "beside this i am in a middle of a move",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/www2000",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/721977?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/721977?v=4&s=60",
+   "displayName": "www2000",
+   "gv": "4",
+   "id": "5caf47acd73408ce4fbd761d",
+   "url": "/www2000",
+   "username": "www2000",
+   "v": 19
+  },
+  "html": "the current problem is that the outgoung mail is not working from local mail client but work from webmail",
+  "id": "60234c9632e01b4f71874ab8",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-02-10T03:01:42.602Z",
+  "text": "the current problem is that the outgoung mail is not working from local mail client but work from webmail",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/www2000",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/721977?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/721977?v=4&s=60",
+   "displayName": "www2000",
+   "gv": "4",
+   "id": "5caf47acd73408ce4fbd761d",
+   "url": "/www2000",
+   "username": "www2000",
+   "v": 19
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"BenjamenMeyer\" class=\"mention\">@BenjamenMeyer</span> can you look in my current postfix settings?",
+  "id": "602368edae4b9b27c1af1364",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "BenjamenMeyer",
+    "userId": "5e86b71dd73408ce4fdf0da2",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-02-10T05:02:37.975Z",
+  "text": "@BenjamenMeyer can you look in my current postfix settings?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "sure; I also found <a href=\"https://mxtoolbox.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link \">https://mxtoolbox.com/</a> to be invaluable in validating things - it&#39;ll warn you if settings are too open",
+  "id": "60236a4a428d9727dd683d43",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-02-10T05:08:26.803Z",
+  "text": "sure; I also found https://mxtoolbox.com/ to be invaluable in validating things - it'll warn you if settings are too open",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://mxtoolbox.com/"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/www2000",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/721977?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/721977?v=4&s=60",
+   "displayName": "www2000",
+   "gv": "4",
+   "id": "5caf47acd73408ce4fbd761d",
+   "url": "/www2000",
+   "username": "www2000",
+   "v": 19
+  },
+  "html": "I think i have fix the problem and i need to wait for domain reputation be fix",
+  "id": "602384b0ae4b9b27c1af5135",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-02-10T07:01:04.655Z",
+  "text": "I think i have fix the problem and i need to wait for domain reputation be fix",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2021-02-10T15:59:56.901Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"www2000\" class=\"mention\">@www2000</span> awesome!",
+  "id": "602402f7a0246860dc43f4ac",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "www2000",
+    "userId": "5caf47acd73408ce4fbd761d",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-02-10T15:59:51.230Z",
+  "text": "@www2000 awesome!",
+  "unread": false,
+  "urls": [],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/www2000",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/721977?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/721977?v=4&s=60",
+   "displayName": "www2000",
+   "gv": "4",
+   "id": "5caf47acd73408ce4fbd761d",
+   "url": "/www2000",
+   "username": "www2000",
+   "v": 19
+  },
+  "html": "Now i need to wait for a few days to clear my domainame",
+  "id": "602403fa428d9727dd69c8e2",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-02-10T16:04:10.173Z",
+  "text": "Now i need to wait for a few days to clear my domainame",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/www2000",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/721977?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/721977?v=4&s=60",
+   "displayName": "www2000",
+   "gv": "4",
+   "id": "5caf47acd73408ce4fbd761d",
+   "url": "/www2000",
+   "username": "www2000",
+   "v": 19
+  },
+  "html": "l-;)",
+  "id": "602403fd4f7d1b68e5432a7e",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-02-10T16:04:13.492Z",
+  "text": "l-;)",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/www2000",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/721977?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/721977?v=4&s=60",
+   "displayName": "www2000",
+   "gv": "4",
+   "id": "5caf47acd73408ce4fbd761d",
+   "url": "/www2000",
+   "username": "www2000",
+   "v": 19
+  },
+  "html": ";)",
+  "id": "602403ff5500a97f82fb8a09",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-02-10T16:04:15.860Z",
+  "text": ";)",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Loki1950",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=60",
+   "displayName": "Loki1950",
+   "gv": "4",
+   "id": "5e90e822d73408ce4fe00596",
+   "url": "/Loki1950",
+   "username": "Loki1950",
+   "v": 903
+  },
+  "html": ":+1: ",
+  "id": "60243c6455359c58bf35292d",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-02-10T20:04:52.301Z",
+  "text": ":+1: ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/www2000",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/721977?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/721977?v=4&s=60",
+   "displayName": "www2000",
+   "gv": "4",
+   "id": "5caf47acd73408ce4fbd761d",
+   "url": "/www2000",
+   "username": "www2000",
+   "v": 19
+  },
+  "html": "Looks like the situation is stable but i wait now for 24/48h",
+  "id": "60244a965500a97f82fc6485",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-02-10T21:05:26.565Z",
+  "text": "Looks like the situation is stable but i wait now for 24/48h",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/www2000",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/721977?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/721977?v=4&s=60",
+   "displayName": "www2000",
+   "gv": "4",
+   "id": "5caf47acd73408ce4fbd761d",
+   "url": "/www2000",
+   "username": "www2000",
+   "v": 19
+  },
+  "html": "looks like the hack was i get some rejects emails form the 9th but that is not a big problem",
+  "id": "6025dd0f063b6c68d55471d8",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-02-12T01:42:39.607Z",
+  "text": "looks like the hack was i get some rejects emails form the 9th but that is not a big problem",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": " Just FYI - <span data-link-type=\"mention\" data-screen-name=\"nabaco\" class=\"mention\">@nabaco</span> started <a href=\"https://opencollective.com/vega-strike\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link \">https://opencollective.com/vega-strike</a> and we&#39;ve since built up about $120 in reserves. We probably should start thinking about how it should be responsibly spent. When we started it I was thinking of a $5/month DO server on our DO account (which presently is there but doesn&#39;t have any systems associated with it). It&#39;s been on my mind...it would be good if we were able to run a server or two in a way that didn&#39;t deplete the funds - e.g fit within the monthly contributions  - so that we had a little buffer should regular contributors drop. So please reach out to me... <span data-link-type=\"mention\" data-screen-name=\"www2000\" class=\"mention\">@www2000</span> we can help some with your server if you like.",
+  "id": "603f0c4fd1aee44e2dbe7aec",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "nabaco",
+    "userId": "5cf91f0bd73408ce4fc25bc2",
+    "userIds": []
+   },
+   {
+    "screenName": "www2000",
+    "userId": "5caf47acd73408ce4fbd761d",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-03-03T04:10:55.458Z",
+  "text": " Just FYI - @nabaco started https://opencollective.com/vega-strike and we've since built up about $120 in reserves. We probably should start thinking about how it should be responsibly spent. When we started it I was thinking of a $5/month DO server on our DO account (which presently is there but doesn't have any systems associated with it). It's been on my mind...it would be good if we were able to run a server or two in a way that didn't deplete the funds - e.g fit within the monthly contributions  - so that we had a little buffer should regular contributors drop. So please reach out to me... @www2000 we can help some with your server if you like.",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://opencollective.com/vega-strike"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/www2000",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/721977?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/721977?v=4&s=60",
+   "displayName": "www2000",
+   "gv": "4",
+   "id": "5caf47acd73408ce4fbd761d",
+   "url": "/www2000",
+   "username": "www2000",
+   "v": 19
+  },
+  "html": "Update on the mail server isue i am happy to say the mail sending problem are only on my own domain",
+  "id": "604c0d23d74bbe49e0edc4c2",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-03-13T00:53:55.998Z",
+  "text": "Update on the mail server isue i am happy to say the mail sending problem are only on my own domain",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/www2000",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/721977?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/721977?v=4&s=60",
+   "displayName": "www2000",
+   "gv": "4",
+   "id": "5caf47acd73408ce4fbd761d",
+   "url": "/www2000",
+   "username": "www2000",
+   "v": 19
+  },
+  "html": "and looks like that mails from vega-strike domains is not an issue",
+  "id": "604c0d7f457d6b4a94c0374f",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-03-13T00:55:27.312Z",
+  "text": "and looks like that mails from vega-strike domains is not an issue",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Loki1950",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=60",
+   "displayName": "Loki1950",
+   "gv": "4",
+   "id": "5e90e822d73408ce4fe00596",
+   "url": "/Loki1950",
+   "username": "Loki1950",
+   "v": 903
+  },
+  "html": ":+1: ",
+  "id": "604c33ad823b6654d2a13e50",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-03-13T03:38:21.053Z",
+  "text": ":+1: ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/www2000",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/721977?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/721977?v=4&s=60",
+   "displayName": "www2000",
+   "gv": "4",
+   "id": "5caf47acd73408ce4fbd761d",
+   "url": "/www2000",
+   "username": "www2000",
+   "v": 19
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"BenjamenMeyer\" class=\"mention\">@BenjamenMeyer</span> Thanks for the info.<br>For the server current i am in a situation that i need some money and i like to have some money (in total 10.55 euro/month) 7.5 euro is for the for the upkeep of the server and the rest is for the upkeep for the 3 domains that i have reserve for vega-strike.<br>and sorry for the late responds ;)",
+  "id": "605a875628e6153d723c41a8",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "BenjamenMeyer",
+    "userId": "5e86b71dd73408ce4fdf0da2",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-03-24T00:27:02.532Z",
+  "text": "@BenjamenMeyer Thanks for the info.\nFor the server current i am in a situation that i need some money and i like to have some money (in total 10.55 euro/month) 7.5 euro is for the for the upkeep of the server and the rest is for the upkeep for the 3 domains that i have reserve for vega-strike.\nand sorry for the late responds ;)",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2021-03-24T00:27:54.573Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/www2000",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/721977?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/721977?v=4&s=60",
+   "displayName": "www2000",
+   "gv": "4",
+   "id": "5caf47acd73408ce4fbd761d",
+   "url": "/www2000",
+   "username": "www2000",
+   "v": 19
+  },
+  "html": "If you need i can pm you my paypal address",
+  "id": "605a877488edaa1eb8d7d93c",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-03-24T00:27:32.390Z",
+  "text": "If you need i can pm you my paypal address",
+  "unread": false,
+  "urls": [],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"www2000\" class=\"mention\">@www2000</span> we can afford about $5 USD right now, just have to submit an expense to our Open collective site. <span data-link-type=\"mention\" data-screen-name=\"nabaco\" class=\"mention\">@nabaco</span> and I can approve. Not sure how that translates to Euro at the moment. As we get more monthly contributors we can raise that up.",
+  "id": "605a9e468478e061b957211e",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "www2000",
+    "userId": "5caf47acd73408ce4fbd761d",
+    "userIds": []
+   },
+   {
+    "screenName": "nabaco",
+    "userId": "5cf91f0bd73408ce4fc25bc2",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-03-24T02:04:54.657Z",
+  "text": "@www2000 we can afford about $5 USD right now, just have to submit an expense to our Open collective site. @nabaco and I can approve. Not sure how that translates to Euro at the moment. As we get more monthly contributors we can raise that up.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/www2000",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/721977?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/721977?v=4&s=60",
+   "displayName": "www2000",
+   "gv": "4",
+   "id": "5caf47acd73408ce4fbd761d",
+   "url": "/www2000",
+   "username": "www2000",
+   "v": 19
+  },
+  "html": "That is oke",
+  "id": "605a9fa3ad83ec3d7d4d0273",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-03-24T02:10:43.918Z",
+  "text": "That is oke",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"www2000\" class=\"mention\">@www2000</span> just reviewed our income at <a href=\"https://opencollective.com/vega-strike\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link \">https://opencollective.com/vega-strike</a> - looks like we may have a consistent $6 USD/month right now coming in; possibly $11 as we just had another backer start. Please submit $6USD/month for the time being. We&#39;ll see how it stabilizes and adjust from there.",
+  "id": "605ab0f133346c16277131cd",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "www2000",
+    "userId": "5caf47acd73408ce4fbd761d",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-03-24T03:24:33.751Z",
+  "text": "@www2000 just reviewed our income at https://opencollective.com/vega-strike - looks like we may have a consistent $6 USD/month right now coming in; possibly $11 as we just had another backer start. Please submit $6USD/month for the time being. We'll see how it stabilizes and adjust from there.",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://opencollective.com/vega-strike"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/www2000",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/721977?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/721977?v=4&s=60",
+   "displayName": "www2000",
+   "gv": "4",
+   "id": "5caf47acd73408ce4fbd761d",
+   "url": "/www2000",
+   "username": "www2000",
+   "v": 19
+  },
+  "html": "thanks ",
+  "id": "605ab989563232374c3d6fa7",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-03-24T04:01:13.976Z",
+  "text": "thanks ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/www2000",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/721977?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/721977?v=4&s=60",
+   "displayName": "www2000",
+   "gv": "4",
+   "id": "5caf47acd73408ce4fbd761d",
+   "url": "/www2000",
+   "username": "www2000",
+   "v": 19
+  },
+  "html": "i send you my paypal adress",
+  "id": "605ab999bc554b42d61dd4fb",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-03-24T04:01:29.066Z",
+  "text": "i send you my paypal adress",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Loki1950",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=60",
+   "displayName": "Loki1950",
+   "gv": "4",
+   "id": "5e90e822d73408ce4fe00596",
+   "url": "/Loki1950",
+   "username": "Loki1950",
+   "v": 903
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"BenjamenMeyer\" class=\"mention\">@BenjamenMeyer</span> did you get a security advisory from GitHub on kramdown affecting our <a href=\"http://vegastrike.github.io/Gemfile.lock\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link \">vegastrike.github.io/Gemfile.lock</a> file.",
+  "id": "606272edf8add214d8036aff",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "BenjamenMeyer",
+    "userId": "5e86b71dd73408ce4fdf0da2",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-03-30T00:38:05.907Z",
+  "text": "@BenjamenMeyer did you get a security advisory from GitHub on kramdown affecting our vegastrike.github.io/Gemfile.lock file.",
+  "unread": false,
+  "urls": [
+   {
+    "url": "http://vegastrike.github.io/Gemfile.lock"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "I don&#39;t think so; perhaps <span data-link-type=\"mention\" data-screen-name=\"nabaco\" class=\"mention\">@nabaco</span> did?",
+  "id": "606289a7af65792631b51807",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "nabaco",
+    "userId": "5cf91f0bd73408ce4fc25bc2",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-03-30T02:15:03.297Z",
+  "text": "I don't think so; perhaps @nabaco did?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "I can see it <a href=\"https://github.com/vegastrike/vegastrike.github.io/security/dependabot\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link \">https://github.com/vegastrike/vegastrike.github.io/security/dependabot</a> though",
+  "id": "60628b2e6b7b535ee1e5ec9c",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-03-30T02:21:34.728Z",
+  "text": "I can see it https://github.com/vegastrike/vegastrike.github.io/security/dependabot though",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://github.com/vegastrike/vegastrike.github.io/security/dependabot"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "interesting...both of the things reported are things that ghpages depends on, not us directly",
+  "id": "60628c06940f1d555e288531",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-03-30T02:25:10.959Z",
+  "text": "interesting...both of the things reported are things that ghpages depends on, not us directly",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "I&#39;ll put up a PR to update the deps",
+  "id": "60628c9e940f1d555e2886a9",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-03-30T02:27:42.721Z",
+  "text": "I'll put up a PR to update the deps",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": ":( unfortunatley GH hasn&#39;t released an update of github-pages ruby-gem that depends on a newer version yet, so we&#39;re kind of stuck",
+  "id": "60628d551049fe429b8aa1c1",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-03-30T02:30:45.144Z",
+  "text": ":( unfortunatley GH hasn't released an update of github-pages ruby-gem that depends on a newer version yet, so we're kind of stuck",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "I can get some dependency updates in though, so I&#39;ll push those up but we&#39;ll have to do another update soon too",
+  "id": "60628d67679f465566adbf51",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-03-30T02:31:03.249Z",
+  "text": "I can get some dependency updates in though, so I'll push those up but we'll have to do another update soon too",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "<a target=\"_blank\" data-link-type=\"pr\" data-issue=\"20\" href=\"https://github.com/vegastrike/vegastrike.github.io/pull/20\" data-provider=\"github\" data-issue-repo=\"vegastrike/vegastrike.github.io\" class=\"pr\">vegastrike/vegastrike.github.io#20</a>",
+  "id": "60628e7f47b0403241a98b94",
+  "issues": [
+   {
+    "number": "20",
+    "repo": "vegastrike/vegastrike.github.io"
+   }
+  ],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-03-30T02:35:43.707Z",
+  "text": "https://github.com/vegastrike/vegastrike.github.io/pull/20",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"Loki1950\" class=\"mention\">@Loki1950</span>  ^^",
+  "id": "60628ef156debe325c4d96b6",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "Loki1950",
+    "userId": "5e90e822d73408ce4fe00596",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-03-30T02:37:37.324Z",
+  "text": "@Loki1950  ^^",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Loki1950",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/21045314?v=4&s=60",
+   "displayName": "Loki1950",
+   "gv": "4",
+   "id": "5e90e822d73408ce4fe00596",
+   "url": "/Loki1950",
+   "username": "Loki1950",
+   "v": 903
+  },
+  "html": "Just reviewed it <span data-link-type=\"mention\" data-screen-name=\"BenjamenMeyer\" class=\"mention\">@BenjamenMeyer</span>  would like <span data-link-type=\"mention\" data-screen-name=\"nabaco\" class=\"mention\">@nabaco</span> review as well as github.io is his baby ;)",
+  "id": "606299d80613c469492766a9",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "BenjamenMeyer",
+    "userId": "5e86b71dd73408ce4fdf0da2",
+    "userIds": []
+   },
+   {
+    "screenName": "nabaco",
+    "userId": "5cf91f0bd73408ce4fc25bc2",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-03-30T03:24:08.762Z",
+  "text": "Just reviewed it @BenjamenMeyer  would like @nabaco review as well as github.io is his baby ;)",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "It&#39;s just dependencies this round...since we&#39;re still waiting on GH to resolve the big issue we can wait a day",
+  "id": "60629a1c679f465566addf72",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-03-30T03:25:16.653Z",
+  "text": "It's just dependencies this round...since we're still waiting on GH to resolve the big issue we can wait a day",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "<a href=\"https://github.blog/2021-04-13-implementing-least-privilege-for-secrets-in-github-actions/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link \">https://github.blog/2021-04-13-implementing-least-privilege-for-secrets-in-github-actions/</a>",
+  "id": "607646a797cf5067465ed8f8",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-04-14T01:34:31.504Z",
+  "text": "https://github.blog/2021-04-13-implementing-least-privilege-for-secrets-in-github-actions/",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://github.blog/2021-04-13-implementing-least-privilege-for-secrets-in-github-actions/"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "We need to do that for the Docker Hub stuff I just did.",
+  "id": "607646b8b9e6de24d63361d9",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-04-14T01:34:48.576Z",
+  "text": "We need to do that for the Docker Hub stuff I just did.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "<a href=\"https://github.blog/changelog/2021-04-20-github-actions-control-permissions-for-github_token/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link \">https://github.blog/changelog/2021-04-20-github-actions-control-permissions-for-github_token/</a>",
+  "id": "6080b8e0d79539186171ccd8",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-04-21T23:44:32.666Z",
+  "text": "https://github.blog/changelog/2021-04-20-github-actions-control-permissions-for-github_token/",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://github.blog/changelog/2021-04-20-github-actions-control-permissions-for-github_token/"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/BenjamenMeyer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1074110?v=4&s=60",
+   "displayName": "Benjamen Meyer",
+   "gv": "4",
+   "id": "5e86b71dd73408ce4fdf0da2",
+   "url": "/BenjamenMeyer",
+   "username": "BenjamenMeyer",
+   "v": 7
+  },
+  "html": "Something else to look into",
+  "id": "6080b8e8b9e6de24d64d6cf9",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2021-04-21T23:44:40.543Z",
+  "text": "Something else to look into",
+  "unread": false,
+  "urls": [],
+  "v": 1
  }
 ]
